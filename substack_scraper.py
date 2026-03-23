@@ -18,12 +18,12 @@ from selenium import webdriver
 from time import sleep
 import argparse
 
-BASE_URL = "https://newsletter.eng-leadership.com"  # Change to your newsletter base URL
+BASE_URL = "https://tscsw.substack.com"  # Change to your newsletter base URL
 SITEMAP_STRING = "/sitemap.xml"  # Change if your sitemap path is different
 
 SITEMAP_URL = BASE_URL + SITEMAP_STRING
 
-OUTPUT_FILE = "articles.json"
+OUTPUT_FILE = "tscs_articles.json"
 
 
 def selenium_login():
@@ -59,7 +59,7 @@ def extract_article_html_and_md(soup):
 
 def scrape_article_selenium(driver, url):
     driver.get(url)
-    sleep(0.3)
+    sleep(10)
     soup = BeautifulSoup(driver.page_source, "lxml")
     return extract_article_html_and_md(soup)
 
@@ -93,8 +93,8 @@ def main():
     import os
     import shutil
 
-    html_dir = "html_files"
-    md_dir = "md_files"
+    html_dir = "tscsw_html_files"
+    md_dir = "tscsw_md_files"
     # Remove all files in html_files and md_files if they exist
     for folder in [html_dir, md_dir]:
         if os.path.exists(folder):
