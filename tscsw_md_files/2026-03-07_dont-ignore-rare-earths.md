@@ -1,0 +1,427 @@
+**Ninety percent.**
+
+That is China’s share of global rare earth chemical separation. Not mining. Processing.
+
+The step that turns worthless rock into the separated oxides and metals inside every EV motor, every wind turbine, every fighter jet. Sources vary from 87% to 93% depending on how you count Chinese-backed operations in Myanmar and Vietnam, but the USGS, IEA, and European Parliament all converge on approximately 90%.
+
+I have looked at a lot of commodity supply chains. I have never seen a single-country concentration at a critical downstream processing step that approaches this level.
+
+Semiconductors come close (Taiwan at 90%+ for leading-edge logic), and we have spent three years and $280 billion trying to fix that. Rare earths are the semiconductor problem, but for atoms instead of transistors.
+
+The financial markets are not paying attention.
+
+This is partly forgivable: global rare earth oxide is a $15–20 billion market, roughly one tenth the size of the lithium market and invisible next to oil. It does not screen on any quantitative fund’s radar. There is no liquid futures contract to attract speculative capital. The sell side covers it thinly because the banking fees are small. And so a chokepoint that matters more to Western industrial capacity than any single commodity except oil sits in the analytical blind spot between “too small to model” and “too important to ignore.”
+
+[![](https://substackcdn.com/image/fetch/$s_!JtrI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35ae0239-6aa2-46be-aea7-22e4f3591dfc_2099x1077.png)](https://substackcdn.com/image/fetch/$s_!JtrI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35ae0239-6aa2-46be-aea7-22e4f3591dfc_2099x1077.png)
+
+China controls 69% of global rare earth mining, approximately 90% of chemical separation, and 94% of permanent magnet manufacturing. It has demonstrated, in real time across multiple escalation cycles in 2025, that it will weaponise that control. New non-China supply is 3 to 5 years from meaningful scale. Demand from EVs, wind, defense, and robotics is growing at 8–11% annually and is price-inelastic in the current range (though not at extreme prices, as the 2011 cycle proved).
+
+The handful of Western companies positioned to fill this gap are in the early innings of a repricing the market has only partially absorbed.
+
+This is not a geopolitical essay dressed up as investment research. The war in Iran, the defense spending ramp, the trade war: those are catalysts, not theses. They accelerate a repricing that was already underway. The thesis is structural, and it rests on arithmetic that most of the market has not done because rare earths are small, obscure, and boring.
+
+**Until they are not.**
+
+[![](https://substackcdn.com/image/fetch/$s_!YDAc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F252fb474-d643-468c-9e71-26dcbd29a3a9_2110x1172.png)](https://substackcdn.com/image/fetch/$s_!YDAc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F252fb474-d643-468c-9e71-26dcbd29a3a9_2110x1172.png)
+
+This piece is 10,000 words. It contains a reconstructed marginal cost curve for non-China rare earth production that does not, to my knowledge, exist elsewhere in public research, a probability-weighted scenario framework with explicit equity outcomes, and the bear case that most bulls refuse to write. It draws on USGS data, Adamas Intelligence, Fastmarkets assessed pricing, Bloomberg Terminal data, Capital IQ consensus models, and ISP-Myanmar satellite analysis.
+
+It is free because the thesis is too important to gate. TSCS publishes institutional-grade equity research and commodity deep dives for a readership that includes portfolio managers, analysts, and founders at over 60 investment firms. If this is what we publish for free, you already know what the paid research looks like.
+
+Subscribed
+
+Let’s get into it.
+
+## **Seven Links in a Chain China Owns**
+
+The first thing most people get wrong about rare earths is treating them as a mining story. It is a processing story, and it always has been. Mining is where China is weakest, and it still controls 69%. What happens downstream is where the thesis lives.
+
+[![](https://substackcdn.com/image/fetch/$s_!SPxC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F433dfb99-b123-4192-91a1-0337cd326357_1405x786.png)](https://substackcdn.com/image/fetch/$s_!SPxC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F433dfb99-b123-4192-91a1-0337cd326357_1405x786.png)
+
+*(Chart: Global rare earth mine production by country, 2020–2024. Source: USGS Mineral Commodity Summaries 2025.)*
+
+Global rare earth mine production reached approximately 390,000 metric tonnes of rare earth oxide equivalent in 2024. China’s production quota: 270,000 MT (69%). The US produced 45,000 MT from MP Materials’ Mountain Pass mine (11.5%), followed by Myanmar at 31,000 MT (8%), Australia at 13,000 MT (3.3%), and newcomers Thailand and Nigeria at 13,000 MT each.
+
+Those numbers look concerning. They are not the concerning numbers.
+
+The rare earth supply chain has seven distinct stages: mining, concentration, chemical separation, metal reduction, alloying, magnet manufacturing, and magnetization. China’s dominance increases at each downstream step. Mining: 69%. Chemical separation: ~90%. Heavy rare earth separation (dysprosium, terbium): ~99%. Sintered NdFeB permanent magnets, the actual product that goes into an F-35 actuator, an EV traction motor, or an offshore wind turbine: 94%.
+
+[![](https://substackcdn.com/image/fetch/$s_!QWUg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faee7f9b0-fa9f-4053-9624-4572bfa26b2c_1405x744.png)](https://substackcdn.com/image/fetch/$s_!QWUg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faee7f9b0-fa9f-4053-9624-4572bfa26b2c_1405x744.png)
+
+*(Chart: China’s share at each supply chain stage. Source: USGS, IEA, Adamas Intelligence.)*
+
+The entire non-China world produces perhaps 20,000–25,000 tonnes of NdFeB magnets. Japan’s Proterial, Shin-Etsu, and TDK collectively produce roughly 10,000–15,000 tonnes. Europe adds perhaps 8,000–10,000 tonnes. The United States had essentially zero large-scale magnet manufacturing until MP Materials began trial production in late 2025.
+
+Mining without processing is like having crude oil without a refinery. The rock is worthless.
+
+[![](https://substackcdn.com/image/fetch/$s_!aUcq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcba574e5-cb64-4d3c-a602-71d7f0d0d302_1405x788.png)](https://substackcdn.com/image/fetch/$s_!aUcq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcba574e5-cb64-4d3c-a602-71d7f0d0d302_1405x788.png)
+
+### **Why Separation Is So Hard**
+
+Here is the problem with separation, and why “just build a plant” is a sentence that betrays its speaker’s ignorance. The 17 lanthanide elements have nearly identical chemical properties. They differ by single electrons buried in inner orbital shells. Their ionic radii vary by less than 0.2 angstroms across the entire series. Imagine trying to sort 17 shades of off-white by eye, at industrial scale, to 99.5% purity. That is what solvent extraction does, through hundreds to over 1,000 mixer-settler stages, running 4–15 weeks of continuous processing per batch.
+
+A commercial-scale separation plant costs $200–500 million for the circuit alone, with a fully integrated facility running $1.5–2 billion. Western environmental regulations add 3–5 years of permitting versus Chinese approvals. Production costs outside China remain 5–7x higher. China holds more patents on rare earth separation and magnet technology than the rest of the world combined.
+
+As of early 2026, the non-China separation landscape: Lynas LAMP in Malaysia (~7,000 tonnes/year NdPr equivalent), MP Materials (2,599 MT in 2025, doubled from 2024), Energy Fuels White Mesa (~1,000 tonnes/year), Neo Performance in Estonia (Europe’s only separator). REEtec is commissioning a pilot in Norway. Iluka Eneabba, Lynas Seadrift, Ucore Louisiana are under development but none reach meaningful scale before 2027.
+
+[![](https://substackcdn.com/image/fetch/$s_!ELG9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a0632b7-f530-419c-9875-1ccf2025799a_1405x774.png)](https://substackcdn.com/image/fetch/$s_!ELG9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a0632b7-f530-419c-9875-1ccf2025799a_1405x774.png)
+
+Total non-China NdPr separation capacity: approximately 10,000 tonnes per year. Global NdPr demand: roughly 55,000–60,000 tonnes and growing. That is 15–17% non-China capacity for the magnet-critical elements that the entire EV, wind, defense, and robotics supply chain depends on.
+
+[![](https://substackcdn.com/image/fetch/$s_!KPgy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda11d7c0-55c6-45c3-8f2a-89af90fb03b9_1405x479.png)](https://substackcdn.com/image/fetch/$s_!KPgy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda11d7c0-55c6-45c3-8f2a-89af90fb03b9_1405x479.png)
+
+If someone told you that about semiconductor fabrication, or oil refining, or pharmaceutical API production, you would call it a national security emergency. In rare earths, it is Tuesday.
+
+### **The Balance Problem and the Thorium Problem**
+
+Most rare earth analysis ignores two structural barriers that explain why Western supply chains keep failing. These are not market inefficiencies. They are physics and politics, and no amount of capital solves either quickly.
+
+**The balance problem.** Geology determines the element mix. A typical bastnäsite deposit yields roughly 50% cerium, 25% lanthanum, 17% neodymium, and small percentages of everything else. Cerium and lanthanum are abundant, low-value, and in structural oversupply. But to get the neodymium and dysprosium the market needs, you must mine, process, and find buyers for the cerium and lanthanum too. Projects that look spectacular on a NdPr-only basis often fail when the low-value elements pile up unsold. China manages the balance problem through state coordination. Western miners face it as an open market problem with no coordination mechanism.
+
+[![](https://substackcdn.com/image/fetch/$s_!31XV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa710917c-868f-44c7-96b4-55b26097ce50_1405x775.png)](https://substackcdn.com/image/fetch/$s_!31XV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa710917c-868f-44c7-96b4-55b26097ce50_1405x775.png)
+
+**Thorium.** Rare earth ores, particularly monazite, contain thorium, a naturally occurring radioactive element. This is the single biggest regulatory barrier to Western processing. Lynas has faced sustained political opposition in Malaysia over radioactive waste. Any new Western separation facility must navigate regulations that add years and hundreds of millions in costs. This is a structural cost advantage that cannot be replicated without environmental trade-offs that democratic societies may not tolerate. It is also, bluntly, the reason China dominates this industry. Beijing made trade-offs in the 1990s that no Western democracy would have accepted, and the resulting cost structure is now 30 years ahead. You do not close that gap with subsidies. You close it by accepting some version of the same trade-offs, or you do not close it.
+
+[![](https://substackcdn.com/image/fetch/$s_!xmdt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff35ff1a6-4a49-4f35-a1fb-61517873b1fd_1405x786.png)](https://substackcdn.com/image/fetch/$s_!xmdt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff35ff1a6-4a49-4f35-a1fb-61517873b1fd_1405x786.png)
+
+## **Four Elements That Run the World**
+
+Seventeen rare earth elements exist. The investment thesis depends on four.
+
+[![](https://substackcdn.com/image/fetch/$s_!VnWI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d743847-0575-4cc9-84ad-d7b00f50ccbc_1404x696.png)](https://substackcdn.com/image/fetch/$s_!VnWI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d743847-0575-4cc9-84ad-d7b00f50ccbc_1404x696.png)
+
+**Neodymium and praseodymium** (traded as NdPr in a 75:25 ratio) provide the magnetic energy density that makes NdFeB magnets the strongest permanent magnets commercially available: 40–55 MGOe, roughly ten times ferrite and twice samarium-cobalt. When you need maximum torque per unit weight, NdFeB is not optional. It is required by physics.
+
+**Dysprosium** dramatically improves coercivity (resistance to demagnetization at high temperatures), essential for motors and generators operating above 150°C. **Terbium** performs a similar function even more effectively per unit weight but is scarcer and roughly four times more expensive.
+
+Both are heavy rare earth elements concentrated in ionic clay deposits in southern China and Myanmar.
+
+Myanmar’s rare earth supply is in flux. In October 2024, the Kachin Independence Army seized Chipwi and Pangwa, the two towns at the centre of the country’s heavy rare earth extraction. China closed border gates in response, halting shipments. A new arrangement emerged by early 2025 (KIA taxation at 35,000 yuan per metric ton, exports partially resuming), but as of early 2026, Kachin mining has not fully recovered. Production is shifting to Shan State under UWSA control, and both the US and India are exploring direct engagement with the KIA to bypass Chinese processing entirely. The net effect on global supply: disrupted, not eliminated, but structurally less reliable than the 31,000 MT headline suggests, and any further escalation in Kachin threatens ~40% of global heavy rare earth mine output.
+
+## **Pricing: The Two-Tier World That Is the Thesis**
+
+[![](https://substackcdn.com/image/fetch/$s_!-kad!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3834199-e456-4d70-a5af-e2b934b3a291_1405x688.png)](https://substackcdn.com/image/fetch/$s_!-kad!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3834199-e456-4d70-a5af-e2b934b3a291_1405x688.png)
+
+Three price points matter. Most analysis conflates them, and the conflation is not innocent. It obscures the single most important variable in the thesis.
+
+**Chinese domestic NdPr oxide** (the Baotou benchmark): approximately $90–100/kg as of late January 2026, hitting $97.97/kg on January 15 and $99.94/kg on January 27. Multi-year highs. BMI/Fitch Solutions revised its 2026 average forecast to $90/kg.
+
+**Neodymium metal** (one processing step downstream of oxide): 1,065,000 CNY/tonne on Chinese domestic markets as of mid-February 2026, up 94.5% year-over-year. Approximately $146/kg. Ex-China pricing data is thinner: off-market transactions suggest premiums of 30–50% over Chinese domestic, implying $190–220/kg.
+
+**Ex-China NdPr oxide**: approximately $90–110/kg through January 2026. NdPr oxide has gained over 40% year-to-date and these numbers may already be stale.
+
+**Dysprosium oxide**: ~$930/kg ex-China, up 105% year-to-date. **Terbium oxide**: reached $3,625/kg in ex-China markets during mid-2025, nearly four times the Chinese domestic price.
+
+On an oxide-to-oxide basis, the ex-China premium over Chinese domestic NdPr has historically run 50–80%. On dysprosium oxide, the premium exceeds 200%. Both are historically unprecedented.
+
+There is no LME contract for NdPr. No COMEX equivalent. Price discovery occurs through Chinese domestic pricing, ex-China assessed pricing (Fastmarkets, Asian Metal, compiled from reported deals, not transaction prices), and increasingly long-term contracts with floor-ceiling mechanisms (the DoW–MP $110/kg being the most prominent). As the market bifurcates, the “NdPr price” that most analysis cites becomes less meaningful. The thesis depends on the ex-China price and the friendshoring spread. I want to be unambiguous about this: the spread is the thesis. Every other number in this piece, the mining tonnages, the demand forecasts, the government subsidies, is context for a single question: how wide is the gap between Chinese domestic pricing and what the rest of the world has to pay? If the spread widens, the equities reprice. If it compresses, the trade dies. Everything else is narrative.
+
+## **The Cost Curve**
+
+Most rare earth analysis skips the marginal cost curve. That is an extraordinary omission for a commodity thesis. I have reconstructed it from public disclosures, industry estimates, and conference presentations.
+
+[![](https://substackcdn.com/image/fetch/$s_!2vlc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15ed0e9a-243b-47e0-875c-895022932c70_1405x673.png)](https://substackcdn.com/image/fetch/$s_!2vlc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15ed0e9a-243b-47e0-875c-895022932c70_1405x673.png)
+
+**Tier 1: Chinese integrated producers** (China Northern Rare Earth, China Rare Earth Group). Fully loaded NdPr oxide at $25–40/kg. Thirty years of learning-curve effects, state-subsidised infrastructure, domestic cerium/lanthanum demand. Critically: these are instruments of industrial policy, not profit-maximisers. Their floor is set by political objectives, not marginal cost.
+
+**Tier 2: Lynas.** Cash cost ~$45–55/kg. Fully loaded (sustaining capex, LAMP licence, Kalgoorlie amortisation) likely $55–70/kg. Below $55, survival-level margins. At $90+, expansion economics are compelling.
+
+**Tier 3: MP Materials.** Mountain Pass mining is cheap ($15–20/kg REO equivalent) because the deposit is high-grade and operational. Separation is new, still ramping. Fully loaded NdPr oxide likely $60–80/kg at current volumes, improving toward $50–65 as throughput scales by 2027–2028. The DoW floor on magnet offtake provides margin buffer the oxide business alone does not.
+
+**Tier 4: Energy Fuels, Neo Performance, emerging separators.** Estimated $80–110/kg at current small scale. Marginally viable at $90/kg ex-China NdPr. Cash-negative at $70 without government subsidies.
+
+**Tier 5: Pre-production projects** (Iluka, Arafura, others). Projected $50–70/kg at nameplate, but these are feasibility-study estimates. Apply a 30–50% contingency. Iluka’s 50% capex overrun before commissioning is instructive.
+
+The structural implication is stark. If Beijing crashes NdPr to $40/kg (which it can sustain for years on state-subsidised production), every non-China producer except Lynas is below cash cost, and Lynas is at breakeven. This is the same kill mechanism that destroyed the 2011 cycle and wiped $1.5 billion of Molycorp equity to zero. The countervailing factor, absent in 2011: Western governments have demonstrated willingness to backstop producers through the trough. But “willingness” is doing heavy lifting in that sentence. The backstops are partial, politically contingent, and subject to the attention span of democratic legislatures. They are better than nothing. They are not a guarantee.
+
+**The cost curve says: the thesis survives at $80+ NdPr oxide. It becomes a survival test between $50 and $80. Below $50, it dies without full government bailouts. This is why the equity valuation later in this piece uses $90/kg as its base case rather than the $110+ the Street appears to assume: $90 is the price at which non-China producers are profitable and expanding, but not the price at which speculative supply floods in. It is the sustainable middle of the cost curve, and the valuation framework that follows reflects that conservatism.**
+
+## **The 2011 Ghost, or: Why Every Structural Thesis Needs a Stress Test**
+
+The cost curve above looks compelling. Before we proceed to the equities, we need to stress-test it against the only real-world precedent: the 2010–2014 cycle that killed Molycorp and nearly killed Lynas.
+
+[![](https://substackcdn.com/image/fetch/$s_!qIxt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28beda38-a958-48fd-81a9-773da71ff559_1404x717.png)](https://substackcdn.com/image/fetch/$s_!qIxt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28beda38-a958-48fd-81a9-773da71ff559_1404x717.png)
+
+Chinese fishing trawler collides with Japanese Coast Guard near the Senkakus. Undeclared embargo. Quotas slashed 72%. Dysprosium: $91 to $2,377. Neodymium: $25 to $340. Hundreds of exploration companies floated. Molycorp: $14 IPO to $79.16. Then the WTO ruled against China’s export quotas in 2014. China shifted strategy: domestic production controls, environmental enforcement, consolidation. Same outcome, legally distinct. Prices collapsed 80–95%. Molycorp: $1.5 billion spent, $1.7 billion in debt, sold for $20.5 million. Lynas survived only because Japanese strategic investors provided $250 million that private markets would not.
+
+“This time is different” is the most dangerous phrase in investing, and I have watched analysts construct “five reasons this cycle is different” for uranium (2007), lithium (2018), cobalt (2017). The hit rate is poor: 20–30%. I am aware that virtually everyone who has been wrong also thought their cycle was the exception. So rather than argue that this time is different, I want to make the differences testable. Four structural factors distinguish 2025–2026 from 2010–2011, and each can be verified or falsified against the cost curve.
+
+**Government floor prices.** The DoW $110/kg floor on MP’s magnet offtake directly addresses the kill mechanism that destroyed Molycorp. At $40/kg oxide, every non-China producer except Lynas is below cash cost. In 2011, they died. In 2026, the floor keeps MP’s magnet revenue stream alive through the trough. Critical caveat: the floor covers one revenue stream, not the company. Market-price oxide sales remain fully exposed.
+
+**Structural demand.** 2011 was speculative hoarding. 2025–2026 is 20.7 million EVs, 34 GW planned offshore wind, robotics at 29% CAGR. These do not disappear when the crisis fades.
+
+**Multiple governments simultaneously.** US ($7.5 billion in the “One Big Beautiful Bill Act”), Australia (A$1.65 billion to Iluka), Japan (co-funding Lynas and JAMSTEC), EU (RESourceEU, approximately €3 billion), India ($4 billion National Critical Mineral Mission).
+
+**Extraterritorial controls.** The October 2025 controls demonstrated Beijing seeks to control how Chinese-origin materials are used even after leaving China. That generates sustained political will rather than post-crisis amnesia.
+
+Against this: China took 30+ years to build what it has. The West is attempting 5–10 under far less favourable conditions. And the lesson of Molycorp is not just that the company failed. The market failed to distinguish companies that could actually process rare earths from those that merely claimed they could. The same risk exists today. Even if every Western project executes on schedule (a historically generous assumption), meaningful non-China supply does not arrive until 2028–2030. Iluka is instructive: most government backing, existing brownfield site, most mining-friendly jurisdiction on earth. Original target: 2025. Slipped to 2027. Capex: A$1.2 billion to A$1.7–1.8 billion, a 50% overrun.
+
+**The cost curve says the thesis survives at $80+ and dies below $50. The 2011 precedent says the kill mechanism is partially, not fully, addressed. The honest assessment: this time is genuinely different in ways that matter (government floors, structural demand, multi-government coordination), but not so different that a 12–18 month flood-and-destroy campaign cannot inflict 50%+ equity drawdowns before the structural thesis reasserts itself.**
+
+That distinction, between “the thesis is right” and “the trade works on your timeline,” is what determines position sizing. We will return to it.
+
+## **Three Waves in Eight Months**
+
+Between April and November 2025, China escalated rare earth export controls across three waves, ultimately covering 12 of 17 rare earth elements, imposing 45-day licensing on all forms (oxides, metals, alloys, magnets, and equipment), and asserting extraterritorial jurisdiction over foreign-made products containing Chinese-origin rare earth content. The November 2025 suspension following the Trump-Xi meeting in Busan froze the broadest October controls until November 10, 2026, but critically, the April regime covering seven heavy rare earth elements was not suspended. Every dysprosium and terbium shipment leaving China still requires an export license today. The legal architecture, enforcement mechanisms, and institutional capacity are fully constructed and held in abeyance on a one-year timer.
+
+The February 2026 targeting of 20 Japanese entities confirms the trajectory: the administrative capacity to administer granular, entity-level controls is growing, not shrinking.
+
+[![](https://substackcdn.com/image/fetch/$s_!vnnI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e507c9e-172a-4d58-8a97-8e025fac5727_1405x707.png)](https://substackcdn.com/image/fetch/$s_!vnnI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e507c9e-172a-4d58-8a97-8e025fac5727_1405x707.png)
+
+I treat some version of reimposition as the base case. The evidence is directional rather than statistically independent: MOFCOM has imposed or tightened critical mineral export controls across six categories since 2023 (gallium, germanium, antimony, graphite, rare earths twice) and reversed zero. These are correlated policy actions within the same trade-war escalation, not independent coin flips, so “six for six” overstates the statistical confidence. But the direction is unambiguous: the institutional regime is expanding, not contracting. The case for easing rests on a comprehensive trade deal that includes rare earth provisions. The Phase One deal included them. They were never enforced.
+
+Paradoxically, China shipped a record 62,585 MT of rare earths in 2025, up 12.9% year-over-year. Controls target high-value heavy rare earths and magnets, not bulk light rare earths. Volume is up, but the materials that actually matter are constrained. The headline number is meaningless. It is the composition that matters.
+
+## **The Inventory Buffer Nobody Quantifies**
+
+Every rare earth bull thesis I have read waves a hand at stockpiles and moves on. In a squeeze thesis, the difference between six months of buffer and two years is the difference between making money and being early, which is the same thing as being wrong.
+
+Japan’s JOGMEC maintains strategic reserves estimated at 60–90 days of national consumption across NdPr, Dy, and Tb: 1,300–2,500 tonnes in government vaults. The US DLA National Defense Stockpile was largely emptied in the post-Cold War drawdown. The 2025 Modernization Act authorised $1 billion in new acquisitions, but try buying rare earth oxides at scale when you are competing for the same constrained supply everyone else needs. South Korea has a 60-day reserve. The EU announced plans. Plans are not stockpiles.
+
+[![](https://substackcdn.com/image/fetch/$s_!4hyT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29cd3c2c-0372-4ba4-a972-9ff74c525246_1405x778.png)](https://substackcdn.com/image/fetch/$s_!4hyT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29cd3c2c-0372-4ba4-a972-9ff74c525246_1405x778.png)
+
+Working backwards from non-China NdPr consumption of ~55,000–60,000 tonnes and assuming 3–5 months of average pipeline inventory, the aggregate non-China buffer is probably 15,000–25,000 tonnes. Non-China NdPr separation is ~10,000–11,000 tonnes/year against demand of 55,000+ tonnes. The annual deficit sourced from China or drawn from inventory: 44,000+ tonnes. Those 15,000–25,000 tonnes cover 4–7 months. Under current partial restrictions, maybe 6–12 months of runway. Under a full embargo: months, not years.
+
+The wild card: China’s State Reserve Bureau holds its own strategic inventories. Nobody outside Beijing knows how much (estimates range from 30,000 to 80,000 tonnes of mixed REO). Beijing has historically dumped state reserves onto the domestic market to cap prices, but those reserves cannot be exported under current controls.
+
+[![](https://substackcdn.com/image/fetch/$s_!re5_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7963b4e-6796-4bb3-a62c-5294b11f2fd5_1405x647.png)](https://substackcdn.com/image/fetch/$s_!re5_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7963b4e-6796-4bb3-a62c-5294b11f2fd5_1405x647.png)
+
+**The Pull-Forward Problem: Precautionary Stockpiling and the 2028 Destock Risk**
+
+There is a dynamic in rare earth markets right now that benefits the near-term bull case and undermines the medium-term one, and almost nobody is modelling it explicitly.
+
+When MOFCOM imposed export licensing in April 2025, every sophisticated buyer of rare earth materials did exactly what you would expect: they started building safety stock. Nikkei Asia reported in mid-2025 that major Japanese manufacturers had moved from just-in-time procurement to 6–12 months of rare earth inventory. European automakers and wind turbine OEMs have reportedly done the same, though corporate disclosures are less granular.
+
+The maths matter. If the 20 largest non-China NdPr consumers (Toyota, Volkswagen, Siemens Gamesa, General Motors, Stellantis, Lockheed Martin, and their equivalents) each built an additional 3–6 months of safety stock through 2025–2026, that represents roughly 7,000–15,000 tonnes of NdPr pulled forward from future demand into current demand. On a market where the annual non-China supply deficit is already ~44,000 tonnes, an additional 7,000–15,000 tonnes of precautionary buying explains a meaningful portion of the price spike from $55/kg to $100/kg.
+
+[![](https://substackcdn.com/image/fetch/$s_!NQeG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa78f5d4-289f-45f0-82ee-b4308c3935e9_1405x758.png)](https://substackcdn.com/image/fetch/$s_!NQeG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa78f5d4-289f-45f0-82ee-b4308c3935e9_1405x758.png)
+
+This is bullish for 2026. It is a risk for 2028–2029.
+
+Here is why. Precautionary stockpiling is a one-time demand event. Once Toyota has 12 months of NdPr inventory rather than 3 months, it does not need to build another 9 months next year. The restocking demand disappears. If that demand disappearance coincides with (a) new Western separation capacity coming online (Iluka targeting 2027, MP heavy separation mid-2026, Energy Fuels Phase 2), and (b) potential diplomatic easing of export controls, the 2028–2029 pricing environment could be materially softer than the 2026–2027 environment even if the structural deficit thesis remains intact.
+
+The precedent is instructive. In 2011–2012, panic buying inflated rare earth demand by an estimated 15–25% above underlying consumption. When prices peaked and inventories were full, demand collapsed not to trend, but below trend, as destocking compounded the price decline. NdPr fell from $340/kg to under $40/kg in 18 months. The structural deficit was real (it reasserted itself by 2020), but the timing destruction was total.
+
+[![](https://substackcdn.com/image/fetch/$s_!7hVt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F576d2f9b-ff71-4121-8da2-b73367844eae_1405x789.png)](https://substackcdn.com/image/fetch/$s_!7hVt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F576d2f9b-ff71-4121-8da2-b73367844eae_1405x789.png)
+
+I am not calling for a repeat of that magnitude, and the structural differences I outlined above are real. The 2011 spike was driven by speculative hoarding by entities with no underlying consumption need, a different dynamic from industrial safety stock. And the current demand base (20+ million EVs annually) is structurally higher than the 2011 equivalent. But the directional risk is the same: today’s prices include a stockpiling premium that will eventually unwind.
+
+The implication for positioning: the bull thesis for 2026–2027 is strengthened by stockpiling (prices may overshoot because hoarding adds to real demand). The bull thesis for 2028–2030 is weakened by it (prices may undershoot because destocking subtracts from real demand). If you are sizing a position for a 2–3 year hold, the destock risk is the most important variable you are not pricing, and it argues for taking some profit if NdPr exceeds $120/kg rather than holding for the structural target.
+
+For MP specifically, the DoW $110/kg floor on magnet offtake provides a partial hedge: even if spot oxide prices correct during a destock phase, the magnet revenue stream remains protected. But oxide sales (which currently represent the majority of MP’s revenue) are fully exposed to spot pricing. A 30–40% oxide price correction during a 2028–2029 destock, while magnet revenue is floor-protected, produces a company that is surviving but not thriving, and an equity that could easily retrace to $35–45 before the structural deficit reasserts itself.
+
+[![](https://substackcdn.com/image/fetch/$s_!4hyg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda2d142b-375e-4ca9-8a86-16f89869cf28_1405x717.png)](https://substackcdn.com/image/fetch/$s_!4hyg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda2d142b-375e-4ca9-8a86-16f89869cf28_1405x717.png)
+
+This is the scenario where position sizing matters more than the thesis.
+
+# **Demand: Consensus but With a Ceiling Nobody Models**
+
+I will not walk you through the demand drivers. You know them. EVs, offshore wind, defense, robotics. NdPr demand is growing at 8–11% annually. Even at 5% CAGR, the non-China supply deficit exceeds 40,000 tonnes by 2028. At 11%, it exceeds 53,000 tonnes. The deficit exists under any reasonable demand scenario, and that is why I am spending 80% of this piece on supply.
+
+[![](https://substackcdn.com/image/fetch/$s_!TNU3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8fce1bab-77d6-4e52-a657-82a00d053e09_1405x744.png)](https://substackcdn.com/image/fetch/$s_!TNU3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8fce1bab-77d6-4e52-a657-82a00d053e09_1405x744.png)
+
+[![](https://substackcdn.com/image/fetch/$s_!kdBw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2cdd5b6-97c0-4446-90e3-481de9661f53_1405x786.png)](https://substackcdn.com/image/fetch/$s_!kdBw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2cdd5b6-97c0-4446-90e3-481de9661f53_1405x786.png)
+
+But there are two things about demand that are not consensus and that matter for sizing.
+
+First, the substitution ceiling is real but narrow. Tesla’s rare-earth-free motor, BMW’s wound-rotor iX3, IDTechEx’s projection of ~30% rare-earth-free EV traction motors by 2034: these target one application. You cannot build a rare-earth-free precision-guided munition, a competitive direct-drive offshore turbine, or high-density robotics actuators without NdFeB. The magnet is being substituted out of the one end market where volumes are largest, while remaining irreplaceable in the four where strategic urgency is highest. That means the demand story gradually shifts from “EV volume play” to “defence and infrastructure premium play,” and the pricing dynamics of those markets are very different. Defence procurement pays whatever it costs. EV OEMs do not.
+
+Second, the elasticity threshold is closer than bulls acknowledge. At $30–60/kg NdPr, demand is genuinely inelastic. Above $150, history shows it becomes highly elastic, rapidly. Toyota redesigned the Prius motor after 2011, demand fell roughly 15%, and manufacturers permanently redesigned thousands of products to use less or no rare earths. At $90–110, we are in the sweet spot. Above $120, you are simultaneously making money on your position and funding the R&D that eventually kills it. The thesis works best at $80–120, and that is the range I model around.
+
+## **The Supply Variables Nobody Covers**
+
+Japan has been managing this risk for 15 years, not 15 months. Proterial invented sintered NdFeB magnets in 1984. JOGMEC co-funded Lynas’s survival with $250 million through Sojitz. Japanese manufacturers produce ~10,000–15,000 tonnes of NdFeB magnets annually, roughly half of non-China output. Japan’s recycling infrastructure is a decade ahead of North America. The February 2026 MOFCOM action targeting 20 Japanese entities underscores that Beijing views Japan’s position as the most immediate competitive threat.
+
+[![](https://substackcdn.com/image/fetch/$s_!_Y0v!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6aaab0b5-086e-4777-b97e-79d4ae1aa526_1405x783.png)](https://substackcdn.com/image/fetch/$s_!_Y0v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6aaab0b5-086e-4777-b97e-79d4ae1aa526_1405x783.png)
+
+I covered Myanmar’s supply disruption earlier. The detail that matters here is what it reveals about China: you do not import from politically unstable conflict zones through smuggling networks because your domestic supply is plentiful. China’s increasing dependence on Myanmar feedstock is itself the proof that Jiangxi’s ionic clay deposits are insufficient.
+
+[![](https://substackcdn.com/image/fetch/$s_!crdR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7de3759-225e-4ef1-a64f-f63012a397cf_1405x532.png)](https://substackcdn.com/image/fetch/$s_!crdR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7de3759-225e-4ef1-a64f-f63012a397cf_1405x532.png)
+
+**China’s own depletion problem.** Jiangxi’s ionic clay deposits have been strip-mined for thirty years, much of it illegal. The Chinese Society of Rare Earths has published assessments suggesting these reserves could be substantially depleted within 15–25 years at current extraction rates. Beijing faces an estimated RMB 38 billion ($5.2 billion) in Jiangxi remediation costs alone. The bear case, that China floods the market, gets weaker the longer you extend the timeline.
+
+**Deep-sea mining wildcard.** Japan’s JAMSTEC has identified rare earth-rich mud near Minamitorishima containing an estimated 16 million tonnes of REO, with heavy rare earth concentrations 3–5x Chinese ionic clays. Commercial production: 2032–2038. Too late for the current thesis. For the longer-term structural story, the supply variable most likely to blow up the permanent deficit assumption.
+
+## **Substitution and Recycling (Taken Seriously)**
+
+I covered the substitution ceiling in the demand section: narrow, real, confined to EV traction motors. Here I want to focus on the two supply-side responses that bulls dismiss too quickly. Iron nitride is the most watched alternative. Niron Magnetics, $300+ million deployed.
+
+It has achieved only ~10 MGOe versus NdFeB’s 40–55 MGOe. Expert consensus: high-potential complement, not near-term replacement. Grain boundary diffusion has already reduced heavy rare earth usage by 40–70% at industrial scale, partially pricing in dysprosium substitution risk.
+
+[![](https://substackcdn.com/image/fetch/$s_!Dd4N!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77e9d1a0-9a21-417d-9a52-ae846f2e7290_1405x630.png)](https://substackcdn.com/image/fetch/$s_!Dd4N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77e9d1a0-9a21-417d-9a52-ae846f2e7290_1405x630.png)
+
+Recycling deserves more attention than bulls give it, and this is where I diverge from consensus. Hydrogen decrepitation recovers NdPr alloy at ~$40–70/kg, below most Western mining projects on the cost curve. The constraint is collection, not economics. Global end-of-life NdFeB availability is ~15,000–20,000 tonnes/year but collection rates are below 5%. This number will move faster than most bull models project: the EU End-of-Life Vehicles Regulation mandates rare earth recovery and labelling for new vehicles, and if automakers replicate Apple’s closed-loop model for EV magnets, collection rates could reach 15–25% by 2030, recovering 3,000–5,000 tonnes of NdPr. Not enough to close the gap alone, but combined with substitution, capable of narrowing the deficit faster than bull models assume.
+
+[![](https://substackcdn.com/image/fetch/$s_!LW2Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88dc2692-9f31-4beb-abb5-417150c326a0_1405x789.png)](https://substackcdn.com/image/fetch/$s_!LW2Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88dc2692-9f31-4beb-abb5-417150c326a0_1405x789.png)
+
+[![](https://substackcdn.com/image/fetch/$s_!4OoU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39e93a59-9a11-4ea7-9694-f8759f009532_1405x783.png)](https://substackcdn.com/image/fetch/$s_!4OoU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39e93a59-9a11-4ea7-9694-f8759f009532_1405x783.png)
+
+Bottom line: NdFeB irreplaceable for highest-performance applications through at least 2035. The 2026–2030 window is what matters for the trade.
+
+## **The Widening Gap: Why Catching Up May Mean Falling Further Behind**
+
+This is the bear case that keeps me up at night, and it survives even if every other bull catalyst fires.
+
+While the West debates permitting timelines and celebrates first-batch commissioning, China’s magnet manufacturers are compounding a technology lead measured in process generations, not percentage points. Grain boundary diffusion (GBD), the technique that concentrates expensive heavy rare earths at grain surfaces rather than wasting them throughout the magnet body, reduces dysprosium usage by 40–70% while matching or exceeding the coercivity of conventionally produced magnets. Chinese manufacturers have adopted GBD across an estimated 40–60% of high-performance sintered NdFeB production. Japanese manufacturers (Proterial, Shin-Etsu, TDK) sit at roughly 15–25%. Western manufacturers outside Japan are at near-zero commercial adoption.
+
+[![](https://substackcdn.com/image/fetch/$s_!dHfL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F877b83fd-222d-4ccc-9dce-c2356dd4dd1f_1405x666.png)](https://substackcdn.com/image/fetch/$s_!dHfL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F877b83fd-222d-4ccc-9dce-c2356dd4dd1f_1405x666.png)
+
+This is not a static snapshot. It is a trajectory. And it points in the wrong direction.
+
+China’s leading magnet producers, JL MAG, Zhenghai, Ningbo Yunsheng, Zhong Ke San Huan, collectively produce over 130,000 tonnes of NdFeB annually and are scaling capacity further. They operate at the frontier of cerium-substituted formulations (replacing scarce neodymium with abundant cerium while maintaining acceptable performance), hot-deformed magnet processes, and additive manufacturing techniques for complex geometries. The latest academic literature on GBD, overwhelmingly authored by Chinese institutions, is advancing pressure-assisted diffusion, Cu-modified grain boundary engineering, and novel diffusion sources that promise further heavy rare earth reduction. These are not laboratory curiosities. The research-to-production pipeline in Chinese magnetics runs 12–18 months, compared to 3–5 years in the West, because the same state-linked conglomerates fund both the research and the factory lines.
+
+MP Materials’ Fort Worth facility targets 1,000 tonnes of NdFeB magnets per year at initial scale. That is less than 1% of China’s current annual output. The 10X expansion targets 10,000 tonnes by the late 2020s. Even at full buildout, MP would produce roughly 7–8% of China’s projected 2028 output. The question is not whether these magnets will find buyers. The DoW price protection and Apple’s $500 million offtake guarantee that. The question is whether Western magnets will be competitive on merit, or whether the friendshoring premium is a permanent tax rather than a temporary bridge.
+
+Consider the political half-life of that premium. In 2026, with Chinese export controls fresh and geopolitical tensions elevated, the appetite to pay 30–40% more for an American or Australian magnet is robust. By 2031, if Chinese manufacturers have moved another process generation ahead, the cost differential may be wider, the performance gap may be real, and the political coalition supporting price floors will face industrial lobbying from OEMs whose competitors source cheaper Chinese magnets through third countries. The Phase One trade deal included rare earth provisions. They were never enforced. Policy support has a shelf life, and the history of Western industrial policy suggests that shelf life is shorter than the timeline required to reach process parity.
+
+The strongest version of this argument: the friendshoring premium creates a revenue stream sufficient to sustain Western producers at sub-scale volumes, but insufficient to fund the R&D intensity needed to close the technology gap. Western companies become permanent wards of defense procurement rather than commercial competitors. The magnets go into F-35s and Abrams tanks, not into the mass-market EV motors and wind turbines where volume economics determine long-term viability. In that scenario, the equities re-rate to defense contractor multiples (8–12x EBITDA), not growth multiples (20x+), and the premium that investors pay today for the “strategic asset” narrative evaporates.
+
+I do not think this is the base case. Japanese manufacturers have demonstrated that non-China process excellence is achievable, and the Proterial/Shin-Etsu ecosystem provides a template. But I assign this scenario roughly 20–25% probability over five years, and it is the bear case most likely to be underweighted by investors who conflate “strategically necessary” with “commercially competitive.” Those are not the same thing.
+
+## **The Bear Case, and I Mean It**
+
+[![](https://substackcdn.com/image/fetch/$s_!UvkZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91d24e33-3b51-4852-bc22-ade11ab23dba_1405x713.png)](https://substackcdn.com/image/fetch/$s_!UvkZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91d24e33-3b51-4852-bc22-ade11ab23dba_1405x713.png)
+
+**China floods the market.** The kill switch from 2011. If the CPC decides destroying Western investments exceeds the loss of selling at $40, they can sustain it for years. Strategically less likely this time (the 2025 consolidation enables strategic pricing, depletion dynamics constrain heavy rare earth flooding), but “less likely” is not “impossible.” Light rare earths are nowhere near depletion, and a light REE flood alone is enough to crush equities.
+
+**Beijing is not a unitary actor.** MIIT controls production quotas, MOFCOM controls export licensing, NDRC sets industrial policy. Provincial governments resist centralisation. These institutional seams create scenarios a “Beijing decides” model misses.
+
+**The November 2026 cliff.** If controls are renewed permanently, urgency compresses. But the friendshoring premium is a structural tax on Western industry, and powerful lobbies are working to eliminate it. Reuters reported in early 2026 that the Trump administration may be reconsidering price-floor support for domestic critical mineral projects. Even committed policy can shift.
+
+**Recession.** A severe downturn reduces EV sales, slows wind, compresses defense budgets. Equities fall 40–50% even with the thesis intact.
+
+**The competitive gap may be widening.** I have given this its own section above because it is the risk I find most intellectually challenging. The short version: Western producers may become permanent wards of defense procurement rather than commercial competitors, and the strategic premium investors pay today may not survive contact with that reality over a five-year horizon.
+
+None of these individually invalidate the thesis within three to five years. But they interact. High prices incentivise substitution and recycling simultaneously. A recession arriving alongside those responses could close the gap earlier. I assign roughly 25–30% to this combined scenario, higher than most bulls acknowledge.
+
+## **Scenario Architecture**
+
+I want to be explicit about how I weight outcomes, and honest about the limits of that exercise. The reimposition case is laid out above. Here is how I translate it into probabilities:
+
+[![](https://substackcdn.com/image/fetch/$s_!ELvg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe90f5637-a2c5-4052-8998-bb2aeaa1c0a4_1405x790.png)](https://substackcdn.com/image/fetch/$s_!ELvg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe90f5637-a2c5-4052-8998-bb2aeaa1c0a4_1405x790.png)
+
+Note these weights sum to approximately 100% with overlap at boundaries, which is honest. Precise point estimates would be false precision. But ranges are better than “heaviest” and “tail risk,” which tell the reader nothing about how you are actually sizing the position.
+
+Probability-weighted, those scenarios produce an expected MP equity value of roughly $48–62/share. At the current mid-$50s, you are paying approximately fair value on a blended basis. The upside skew is real (structural repricing delivers $70–100+), but so is the downside (flood-and-destroy or diplomatic resolution delivers $20–35). This is not a screaming buy at current levels. It is a correctly priced option on structural repricing, with the optionality most valuable if you can add on a drawdown to $35–40.
+
+These scenarios are not mutually exclusive in time. That is the critical point most scenario analysis misses.
+
+A flood-and-destroy phase lasting 12–18 months could precede structural repricing if Western governments backstop producers through the trough. The 2011–2025 sequence is precisely this pattern: prices crashed, Molycorp died, Lynas survived on Japanese capital, and the structural deficit reasserted itself over the following decade. Anyone who bought Lynas at the 2015 trough and held through 2025 made 20x. Anyone who bought at the 2011 peak and sold during the crash lost 90%.
+
+The trade is not the thesis. The thesis says the processing gap does not close on any timeline shorter than three years. The trade says: given that thesis, what position can I hold through the drawdown I know is coming, and still be standing when the repricing arrives? **Position sizing is the actual investment decision. Everything else is context.**
+
+## **The Equity: MP Materials (NYSE: MP)**
+
+Two companies in the non-China landscape have the scale, processing capability, and government backing to matter: MP Materials and Lynas Rare Earths. Both are effectively extensions of Western industrial policy, which is simultaneously their greatest strength and their most underappreciated risk. I am going deeper on MP because it has more moving parts, more embedded optionality, more ways the market is mispricing the capital structure, and the DoW relationship that creates a valuation floor no other name in the sector has.
+
+[![](https://substackcdn.com/image/fetch/$s_!n5yW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3adaa1fb-9a7d-48d6-88c4-619b8188baed_1406x671.png)](https://substackcdn.com/image/fetch/$s_!n5yW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3adaa1fb-9a7d-48d6-88c4-619b8188baed_1406x671.png)
+
+### **What It Is**
+
+The only fully integrated US rare earth producer. Mountain Pass mine in California (highest-grade large-scale rare earth deposit in the Western Hemisphere). Independence magnet facility in Fort Worth. First magnets on commercial equipment Q4 2025. FY2025 NdPr oxide: 2,599 MT, up 101% YoY, exiting at an annualised run rate of nearly 4,000 MT.
+
+Critical context most coverage omits: until mid-2025, MP shipped concentrate to Shenghe Resources in China. America’s flagship rare earth independence play was, until 18 months ago, sending its ore across the Pacific to be processed by the country it is supposed to be independent from. Let that sit for a moment. Processing track record: measured in quarters, not decades. This is a mining company that became a processing company and is attempting to become a magnet company. Each step is harder than the last, and each requires capabilities that are qualitatively different from the one before.
+
+### **The Financial Reality**
+
+FY2025 consolidated revenue: $224.4 million, up 10%. Magnetics segment: $66.9 million, from zero. Full-year adjusted EBITDA was $11.4 million, but Q4 alone was $39.2 million, meaning Q1–Q3 combined were still negative $27.8 million. The improvement is real but heavily back-loaded and substantially driven by the DoW Price Protection Agreement (commenced October 1, 2025), which pays MP the difference between $110/kg and the benchmark quarterly average for NdPr products. At current market prices below $110/kg, this is functionally a government subsidy. It is a genuine floor. It is not organic profitability. Q4 EPS $0.09 beat consensus of $0.02 by 350%. Cash: $1.17 billion.
+
+### **The Balance Sheet Question Nobody Is Asking**
+
+Guided 2026 capex: $500–600 million. The 10X facility, heavy separation, and mine expansion collectively require north of $1.5 billion through 2028. Cash covers roughly 18–24 months at current burn. DoW convertible preferred and warrants represent approximately 15% dilution at conversion. If MP raises additional equity (which I assign 40–50% probability before 2028), total dilution could reach 20–25%.
+
+Here is where the reflexivity lives, and where most coverage stops too early. At $58/share, a capital raise is manageable: modest dilution, strong institutional appetite, strategic premium on the equity. At $40/share, triggered by a Chinese price flood or a broader market selloff, the raise becomes more dilutive and simultaneously more likely. The company needs capital to complete the buildout. If the equity price falls, each dollar of capital costs more shares. That reflexivity, the interaction between equity price, capital needs, and dilution, is what killed Molycorp. The DoW floor partially breaks the reflexive loop by guaranteeing a revenue stream that supports debt capacity even at depressed equity prices. Partially. Not fully.
+
+### **Valuation Framework**
+
+The honest version of this exercise starts with what the market already believes, and then asks whether you agree.
+
+[![](https://substackcdn.com/image/fetch/$s_!NT_M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb980f39-db84-4c99-a417-27c23863f555_1405x703.png)](https://substackcdn.com/image/fetch/$s_!NT_M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb980f39-db84-4c99-a417-27c23863f555_1405x703.png)
+
+**What the Street thinks.** Fifteen analysts cover MP with target prices. Consensus estimates for FY2028: revenue of $1,052M and EBITDA of $572M, implying a 54% EBITDA margin. At current enterprise value of $9,964M, that prices MP at 17.4x 2028E EV/EBITDA. The ramp is steep: consensus has 2026E EBITDA at $173M (57.6x), 2027E at $439M (22.7x), then $572M in 2028. Revenue is expected to nearly quadruple between 2026 and 2028, from $396M to $1,052M. These consensus numbers embed aggressive assumptions: NdPr prices sustained above $100/kg, the 10X facility commissioned on schedule in 2028, magnet production scaling well beyond initial 1,000 MT/yr targets, and heavy rare earth separation contributing meaningful revenue by late 2026. In the structural bull scenario (controls reimposed, NdPr $100–130, full execution), these numbers are achievable. In any other scenario, they are not.
+
+**What my model suggests.** At $90/kg NdPr oxide sustained through 2028, MP’s combined revenue from oxide sales (4,000–5,000 MT at realised ex-China pricing), magnet manufacturing (scaling toward 1,000 MT/year with $110/kg DoW floor and Apple offtake), and heavy rare earth separation (targeting Dy and Tb production by late 2026) suggests 2028 revenue of $450–550M with 25–35% EBITDA margins. That implies 2028 EBITDA of $112–192M.
+
+[![](https://substackcdn.com/image/fetch/$s_!w74t!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6264eaeb-fda4-4aaf-b57d-0a2e5f304d2c_1405x727.png)](https://substackcdn.com/image/fetch/$s_!w74t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6264eaeb-fda4-4aaf-b57d-0a2e5f304d2c_1405x727.png)
+
+The gap between my estimate and the Street ($112–192M vs $572M) is not a modelling error. It reflects a scenario disagreement. The Street is pricing the structural bull. I am pricing the muddle-through. The difference is driven almost entirely by two assumptions: (1) NdPr pricing ($90/kg in my model vs $110–130 implied by consensus), and (2) 10X ramp timing (partial contribution by 2028 in mine vs full nameplate in consensus). If you believe reimposition is the base case and 10X executes on time, the Street is right and MP is cheap at 17.4x 2028 EBITDA. If you think muddle-through is more likely, the stock is pricing in a scenario that has roughly 35–40% probability.
+
+**The comps context.** Here is every non-China rare earth and strategic mineral company that matters, from the same Capital IQ terminal, on the same date:
+
+[![](https://substackcdn.com/image/fetch/$s_!ZkNA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7750fc50-7965-44f9-9157-a7f426341760_1405x790.png)](https://substackcdn.com/image/fetch/$s_!ZkNA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7750fc50-7965-44f9-9157-a7f426341760_1405x790.png)
+
+The table tells a story if you read it right.
+
+On FY2027E multiples, MP (22.7x) and Lynas (19.1x) are converging. The 3–4 turn premium MP commands reflects US-jurisdiction strategic value, the DoW relationship, and magnet optionality. That premium is not unreasonable. But Lynas’s consensus price target of A$11.68 sits below the current A$12.86, meaning the analysts who cover the closest comp think the sector has already overshot. That is a yellow flag for the entire rare earth group.
+
+Cameco at 26.3x FY2027E is the best analogue for what MP aspires to become: a strategic commodity producer with government backstop, structural demand tailwind, and geopolitical scarcity premium. Cameco has sustained this premium for years and its 17 analysts rate it 1.68 (”strong Outperform”). If MP de-risks execution through 2027, a Cameco-level multiple is the upside case. MP at 22.7x already sits within range.
+
+Albemarle at 10.1x is the gravity well. This is what a de-risked, producing strategic mineral company trades at when the scarcity premium fades. The difference between Albemarle’s multiple and Cameco’s (10x vs 26x) on $439M 2027E EBITDA translates to roughly $25/share vs $65/share for MP. That range maps almost exactly onto the 52-week low and the current price.
+
+Iluka is the cautionary tale. A$2.7B TEV, loss-making through FY2027, A$1.65B government loan, 50% capex overrun, and analysts barely targeting above the current price. This is what happens when “strategic asset with government backing” meets execution reality. Every capex timeline in the piece, including MP’s 10X facility, should be read through the Iluka lens.
+
+Energy Fuels at C$4.4B TEV with negative EBITDA through 2026 and barely breakeven in 2027 is trading on pure optionality, priced entirely on management’s $3.7B NPV claims for projects that have not reached final investment decision. Only four analysts cover it. This is the speculative end of the sector.
+
+[![](https://substackcdn.com/image/fetch/$s_!ew2X!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78ac460a-ca83-4113-9a78-6e391daa65a2_1405x789.png)](https://substackcdn.com/image/fetch/$s_!ew2X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78ac460a-ca83-4113-9a78-6e391daa65a2_1405x789.png)
+
+**Short interest.** MP’s short interest stands at 24.8 million shares, roughly 14% of float. That is high for a name of this size and tells you sophisticated money disagrees with the bull case. It also creates squeeze dynamics in both directions: a positive catalyst (reimposition, 10X acceleration) compresses shorts violently upward, while a negative catalyst (trade deal, execution miss) can cascade downward as longs capitulate into existing short pressure.
+
+**The dilution question.** Guided 2026 capex is $500–600M (consensus: $551M), against guided free cash flow of negative $407M. Cash of $1.17B covers roughly 18–24 months at current burn. Average diluted shares in consensus estimates ramp from 195.5M in Q1 2026 to 206M by Q4 2026, reflecting the DoW convertible preferred and warrants at approximately 16% dilution versus the 177.7M basic shares outstanding. I assign 40–50% probability of an additional equity raise before 2028. At $58/share, that is manageable. At $40, the reflexivity loop I described above kicks in. The maths do not need repeating.
+
+**The entry question.** At today’s mid-$50s, you are paying 22.7x FY2027E EV/EBITDA, a 3–4 turn premium over Lynas and slightly below Cameco. It requires conviction that the consensus ramp materialises. My own model’s low case ($112M EBITDA in 2028) produces 89x, which does not support the current stock price under any reasonable multiple framework.
+
+[![](https://substackcdn.com/image/fetch/$s_!IlfB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97ab44d2-baea-4762-a02f-38f75aa6c60f_1403x696.png)](https://substackcdn.com/image/fetch/$s_!IlfB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97ab44d2-baea-4762-a02f-38f75aa6c60f_1403x696.png)
+
+At $35–40 (a level the stock visited as recently as early 2025), the risk/reward is asymmetric in your favour. That is the entry zone. At mid-$50s, you are paying roughly probability-weighted fair value: not expensive, not cheap, and vulnerable to any single negative catalyst. At $100 (the October 2025 peak), you are paying for the structural bull plus execution perfection plus no recession. Express that view through options, not equity.
+
+52-week range: $18.64–$100.25. If you cannot stomach a 40–50% drawdown while holding, you should not own this. And if you are reading this thinking “but the thesis is so compelling that I will size up,” go re-read the Molycorp section.
+
+### **Key Catalysts**
+
+MP reports Q1 in late April/May (10X construction update, heavy separation commissioning). Heavy rare earth separation expected mid-2026, with separated Dy and Tb by late 2026. 10X facility targeting 2028 commissioning. November 2026 MOFCOM expiry is the binary macro event.
+
+[![](https://substackcdn.com/image/fetch/$s_!JC2R!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2c5a8ba-fedb-4171-b44c-b8203553de55_1405x719.png)](https://substackcdn.com/image/fetch/$s_!JC2R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2c5a8ba-fedb-4171-b44c-b8203553de55_1405x719.png)
+
+For completeness, the one-line thesis on each name beyond MP. Lynas is the safer play with less upside: it already does the hardest part, Mt Weld is the world’s lowest-cost NdPr producer, and the mine life exceeds 20 years, but Kalgoorlie ramp execution, the LAMP licence in Malaysia, and Seadrift stalling all weigh on the near-term. At A$11-14, repriced from perfection to reality. Energy Fuels is genuinely differentiated by its dual uranium/rare earth revenue stream and was up roughly 243% in 2025, but Phase 2 scale-up execution is the question and management’s NPV estimates ($3.7B combined) are among the most optimistic figures in mining finance. Iluka is the cautionary tale for all capex timelines in this sector: A$1.65B government loan, brownfield site, most mining-friendly jurisdiction on earth, and still a 50% capex overrun with the timeline slipping from 2025 to 2027. Vulcan Elements is pre-revenue, pre-production, and trading on policy proximity as the second DoW-backed magnet manufacturer; high-risk, high-reward if the Department of Defense relationship matures.
+
+The magnet manufacturing race is where equity creation happens. Miners without integration are selling rock to someone else’s chain, the same value trap 2011 created.
+
+## **Five Numbers That Determine How This Resolves**
+
+[![](https://substackcdn.com/image/fetch/$s_!xfBe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac9553fe-fe41-4b23-83eb-fc14229454fd_1405x677.png)](https://substackcdn.com/image/fetch/$s_!xfBe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac9553fe-fe41-4b23-83eb-fc14229454fd_1405x677.png)
+
+**1. MOFCOM export license approval rates.** The real-time indicator. The February 2026 action against 20 Japanese entities is the latest signal.
+
+**2. MP 10X commissioning timeline.** Targeting 2028. Heavy separation expected mid-2026, with separated Dy and Tb by late 2026.
+
+**3. Ex-China NdPr oxide spot.** Above $100 sustained: substitution R&D explodes. Below $80: next wave of Western projects becomes uneconomic and the gap widens. As of early 2026: $90–100/kg and rising.
+
+**4. November 2026 expiry.** Binary event. Size accordingly. The market starts pricing it by mid-2026.
+
+**5. Global EV trajectory.** Deceleration weakens demand side. Acceleration widens the gap. BMI’s 22.9 million units for 2026 is the near-term benchmark.
+
+**Near-term catalyst calendar.** MP reports Q1 in late April/May (10X construction, heavy separation commissioning). Lynas reports FY2026 in August (Kalgoorlie ramp). Energy Fuels quarterly (Phase 1 revenue, Phase 2 decisions). MOFCOM monthly export data (~6 week lag). Myanmar enforcement: any concrete action spikes heavy rare earth prices within days.
+
+## **Where This Leaves Us**
+
+Let me be direct about what I believe.
+
+The rare earth processing gap is the most underpriced structural risk in global commodity markets. China will, on some timeline between now and November 2026, reimpose or tighten export controls, because the institutional architecture is built, the geopolitical incentives are aligned, and the track record is six escalations and zero reversals. MP Materials is the highest-optionality vehicle in the Western rare earth supply chain, and the DoW floor creates a survivability buffer that did not exist in 2011.
+
+I also believe the current equity price does not adequately compensate for execution risk, the 2028 destock scenario, or the possibility that Western producers become permanent wards of defense procurement rather than commercial competitors. Consensus EBITDA estimates embed assumptions I weight at 35–40% probability. And the timeline is less forgiving than most bulls assume: the pull-forward dynamic that is bullish for 2026–2027 is bearish for 2028–2029, and anyone holding for the “long-term structural thesis” needs to define what happens to their position during the intervening valley.
+
+Two numbers above all others. Ex-China NdPr oxide sustained above $100/kg through Q3 2026: the thesis is working. The November 2026 MOFCOM expiry: the binary event around which everything else orbits.
+
+The people who profit from structural commodity theses are never the ones who identified them first. They are the ones who sized positions to survive the drawdowns, understood that being right about the thesis guarantees nothing about the next three months, and stayed positioned through the volatility that shakes everyone else out.
+
+The data is public. The interpretation is mine. What you do with it is your problem.
+
+**If you found this useful, the single most valuable thing you can do is send it to someone who allocates capital. This kind of analysis compounds when it circulates.**
+
+[Share](https://tscsw.substack.com/p/dont-ignore-rare-earths?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxNDAwMjQ1LCJwb3N0X2lkIjoxOTAyMjE0MjYsImlhdCI6MTc3NDIyNjI4OCwiZXhwIjoxNzc2ODE4Mjg4LCJpc3MiOiJwdWItMjM1NDI0NCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.Pa4XQ0XcqZQleqckFdkn7NJMEFaFxNgrjx1wf9SVBs8)
+
+[Share TSCS](https://tscsw.substack.com/?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+---
+
+*This publication is for informational and educational purposes only. It is not investment advice, and nothing in this piece constitutes a recommendation to buy, sell, or hold any security. The author may hold positions in securities discussed. Do your own work. You are responsible for your own decisions.*

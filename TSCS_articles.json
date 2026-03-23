@@ -1,0 +1,632 @@
+[
+  {
+    "url": "https://tscsw.substack.com/archive",
+    "html_file": "html_files/archive.html",
+    "md_file": "md_files/archive.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/about",
+    "html_file": "html_files/about.html",
+    "md_file": "md_files/about.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/private-credit-is-eating-itself",
+    "html_file": "html_files/2026-03-15_private-credit-is-eating-itself.html",
+    "md_file": "md_files/2026-03-15_private-credit-is-eating-itself.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/partys-over",
+    "html_file": "html_files/2026-03-13_partys-over.html",
+    "md_file": "md_files/2026-03-13_partys-over.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/there-is-no-alternative",
+    "html_file": "html_files/2026-03-13_there-is-no-alternative.html",
+    "md_file": "md_files/2026-03-13_there-is-no-alternative.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/oil-isnt-the-trade",
+    "html_file": "html_files/2026-03-09_oil-isnt-the-trade.html",
+    "md_file": "md_files/2026-03-09_oil-isnt-the-trade.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/dont-ignore-rare-earths",
+    "html_file": "html_files/2026-03-07_dont-ignore-rare-earths.html",
+    "md_file": "md_files/2026-03-07_dont-ignore-rare-earths.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-oil-market-is-lying-to-you",
+    "html_file": "html_files/2026-03-06_the-oil-market-is-lying-to-you.html",
+    "md_file": "md_files/2026-03-06_the-oil-market-is-lying-to-you.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/800-million-ounces-short",
+    "html_file": "html_files/2026-03-03_800-million-ounces-short.html",
+    "md_file": "md_files/2026-03-03_800-million-ounces-short.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/operation-epic-fury",
+    "html_file": "html_files/2026-03-01_operation-epic-fury.html",
+    "md_file": "md_files/2026-03-01_operation-epic-fury.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/there-is-no-power",
+    "html_file": "html_files/2026-02-27_there-is-no-power.html",
+    "md_file": "md_files/2026-02-27_there-is-no-power.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/there-is-no-copper-market",
+    "html_file": "html_files/2026-02-25_there-is-no-copper-market.html",
+    "md_file": "md_files/2026-02-25_there-is-no-copper-market.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/private-credit-is-lying-to-you",
+    "html_file": "html_files/2026-02-28_private-credit-is-lying-to-you.html",
+    "md_file": "md_files/2026-02-28_private-credit-is-lying-to-you.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/carvana-is-worth-zero",
+    "html_file": "html_files/2026-02-20_carvana-is-worth-zero.html",
+    "md_file": "md_files/2026-02-20_carvana-is-worth-zero.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/koreas-1-job-platform-at-negative",
+    "html_file": "html_files/2026-02-18_koreas-1-job-platform-at-negative.html",
+    "md_file": "md_files/2026-02-18_koreas-1-job-platform-at-negative.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/sell-america-buy-japan",
+    "html_file": "html_files/2026-02-16_sell-america-buy-japan.html",
+    "md_file": "md_files/2026-02-16_sell-america-buy-japan.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/dont-short-oil",
+    "html_file": "html_files/2026-02-14_dont-short-oil.html",
+    "md_file": "md_files/2026-02-14_dont-short-oil.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/how-gold-broke-the-dollar-the-38000",
+    "html_file": "html_files/2026-02-12_how-gold-broke-the-dollar-the-38000.html",
+    "md_file": "md_files/2026-02-12_how-gold-broke-the-dollar-the-38000.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/uraniums-loudest-signal-in-a-decade",
+    "html_file": "html_files/2026-02-12_uraniums-loudest-signal-in-a-decade.html",
+    "md_file": "md_files/2026-02-12_uraniums-loudest-signal-in-a-decade.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/semiconductor-equipment-primer-13",
+    "html_file": "html_files/2026-02-12_semiconductor-equipment-primer-13.html",
+    "md_file": "md_files/2026-02-12_semiconductor-equipment-primer-13.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/dont-short-saas",
+    "html_file": "html_files/2026-02-16_dont-short-saas.html",
+    "md_file": "md_files/2026-02-16_dont-short-saas.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/america-cannot-fight-a-war",
+    "html_file": "html_files/2026-02-12_america-cannot-fight-a-war.html",
+    "md_file": "md_files/2026-02-12_america-cannot-fight-a-war.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/canadas-best-gas-producer-at-77x",
+    "html_file": "html_files/2026-02-09_canadas-best-gas-producer-at-77x.html",
+    "md_file": "md_files/2026-02-09_canadas-best-gas-producer-at-77x.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-31-silver-crash-why-markets-got",
+    "html_file": "html_files/2026-02-12_the-31-silver-crash-why-markets-got.html",
+    "md_file": "md_files/2026-02-12_the-31-silver-crash-why-markets-got.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-oil-bull-market-nobody-believes",
+    "html_file": "html_files/2026-02-12_the-oil-bull-market-nobody-believes.html",
+    "md_file": "md_files/2026-02-12_the-oil-bull-market-nobody-believes.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/95-oil-is-coming-before-2027",
+    "html_file": "html_files/2026-02-12_95-oil-is-coming-before-2027.html",
+    "md_file": "md_files/2026-02-12_95-oil-is-coming-before-2027.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/iran-2026-the-market-is-asking-the",
+    "html_file": "html_files/2026-02-01_iran-2026-the-market-is-asking-the.html",
+    "md_file": "md_files/2026-02-01_iran-2026-the-market-is-asking-the.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/10x-ebit-5-dividend-yield-and-an",
+    "html_file": "html_files/2026-02-12_10x-ebit-5-dividend-yield-and-an.html",
+    "md_file": "md_files/2026-02-12_10x-ebit-5-dividend-yield-and-an.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/is-cheap-too-expensive-why-xi-jinpings",
+    "html_file": "html_files/2026-02-12_is-cheap-too-expensive-why-xi-jinpings.html",
+    "md_file": "md_files/2026-02-12_is-cheap-too-expensive-why-xi-jinpings.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/your-portfolio-lost-71-since-1999",
+    "html_file": "html_files/2026-01-17_your-portfolio-lost-71-since-1999.html",
+    "md_file": "md_files/2026-01-17_your-portfolio-lost-71-since-1999.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/pstg-70-gross-margins-18b-arr-and",
+    "html_file": "html_files/2026-01-16_pstg-70-gross-margins-18b-arr-and.html",
+    "md_file": "md_files/2026-01-16_pstg-70-gross-margins-18b-arr-and.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/why-development-is-dead-and-why-thats",
+    "html_file": "html_files/2026-01-13_why-development-is-dead-and-why-thats.html",
+    "md_file": "md_files/2026-01-13_why-development-is-dead-and-why-thats.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/pay-9b-for-chinas-ai-stack-robotaxi",
+    "html_file": "html_files/2026-01-16_pay-9b-for-chinas-ai-stack-robotaxi.html",
+    "md_file": "md_files/2026-01-16_pay-9b-for-chinas-ai-stack-robotaxi.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/40-equities-that-control-ai-infrastructure",
+    "html_file": "html_files/2026-03-04_40-equities-that-control-ai-infrastructure.html",
+    "md_file": "md_files/2026-03-04_40-equities-that-control-ai-infrastructure.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/every-equity-that-matters-in-the",
+    "html_file": "html_files/2026-03-04_every-equity-that-matters-in-the.html",
+    "md_file": "md_files/2026-03-04_every-equity-that-matters-in-the.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/how-america-goes-bankrupt-2026",
+    "html_file": "html_files/2026-01-06_how-america-goes-bankrupt-2026.html",
+    "md_file": "md_files/2026-01-06_how-america-goes-bankrupt-2026.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/us-grid-monopolist-with-90-fcf-conversion",
+    "html_file": "html_files/2026-01-09_us-grid-monopolist-with-90-fcf-conversion.html",
+    "md_file": "md_files/2026-01-09_us-grid-monopolist-with-90-fcf-conversion.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/portfolio-update-3168-in-h1-outperformed",
+    "html_file": "html_files/2026-01-16_portfolio-update-3168-in-h1-outperformed.html",
+    "md_file": "md_files/2026-01-16_portfolio-update-3168-in-h1-outperformed.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-datacenter-bible-from-layman",
+    "html_file": "html_files/2026-03-04_the-datacenter-bible-from-layman.html",
+    "md_file": "md_files/2026-03-04_the-datacenter-bible-from-layman.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-golden-age-of-financial-fraud",
+    "html_file": "html_files/2025-12-23_the-golden-age-of-financial-fraud.html",
+    "md_file": "md_files/2025-12-23_the-golden-age-of-financial-fraud.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/asymmetric-gold-and-silver-opportunity",
+    "html_file": "html_files/2025-12-28_asymmetric-gold-and-silver-opportunity.html",
+    "md_file": "md_files/2025-12-28_asymmetric-gold-and-silver-opportunity.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/secular-growth-trap-with-30-profit",
+    "html_file": "html_files/2025-12-21_secular-growth-trap-with-30-profit.html",
+    "md_file": "md_files/2025-12-21_secular-growth-trap-with-30-profit.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/sell-your-index-funds-the-s-and-p",
+    "html_file": "html_files/2025-12-22_sell-your-index-funds-the-s-and-p.html",
+    "md_file": "md_files/2025-12-22_sell-your-index-funds-the-s-and-p.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/black-friday-no-discounts-just-conviction",
+    "html_file": "html_files/2025-11-28_black-friday-no-discounts-just-conviction.html",
+    "md_file": "md_files/2025-11-28_black-friday-no-discounts-just-conviction.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/compounder-with-the-worlds-highest",
+    "html_file": "html_files/2025-12-21_compounder-with-the-worlds-highest.html",
+    "md_file": "md_files/2025-12-21_compounder-with-the-worlds-highest.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/carvana-cvna-is-worth-zero-the-subprime",
+    "html_file": "html_files/2025-12-21_carvana-cvna-is-worth-zero-the-subprime.html",
+    "md_file": "md_files/2025-12-21_carvana-cvna-is-worth-zero-the-subprime.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/sell-mstr-a-trap-for-idiots-and-index",
+    "html_file": "html_files/2025-12-21_sell-mstr-a-trap-for-idiots-and-index.html",
+    "md_file": "md_files/2025-12-21_sell-mstr-a-trap-for-idiots-and-index.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/stop-investing-in-the-old-nokia-it",
+    "html_file": "html_files/2025-11-27_stop-investing-in-the-old-nokia-it.html",
+    "md_file": "md_files/2025-11-27_stop-investing-in-the-old-nokia-it.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-age-of-copper",
+    "html_file": "html_files/2026-02-23_the-age-of-copper.html",
+    "md_file": "md_files/2026-02-23_the-age-of-copper.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/jp-morgans-7-trillion-ai-warning",
+    "html_file": "html_files/2025-12-22_jp-morgans-7-trillion-ai-warning.html",
+    "md_file": "md_files/2025-12-22_jp-morgans-7-trillion-ai-warning.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-self-funding-bank-with-30-cagr",
+    "html_file": "html_files/2025-11-19_the-self-funding-bank-with-30-cagr.html",
+    "md_file": "md_files/2025-11-19_the-self-funding-bank-with-30-cagr.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-2-trillion-shovel-nokias-1000",
+    "html_file": "html_files/2025-11-02_the-2-trillion-shovel-nokias-1000.html",
+    "md_file": "md_files/2025-11-02_the-2-trillion-shovel-nokias-1000.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/a-plutocratic-society-the-coming",
+    "html_file": "html_files/2025-10-30_a-plutocratic-society-the-coming.html",
+    "md_file": "md_files/2025-10-30_a-plutocratic-society-the-coming.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/41-cobalt-share-and-52-margin-with",
+    "html_file": "html_files/2025-11-12_41-cobalt-share-and-52-margin-with.html",
+    "md_file": "md_files/2025-11-12_41-cobalt-share-and-52-margin-with.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-critical-mineral-worth-billions",
+    "html_file": "html_files/2025-10-30_the-critical-mineral-worth-billions.html",
+    "md_file": "md_files/2025-10-30_the-critical-mineral-worth-billions.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/ai-circular-financing-and-the-300b",
+    "html_file": "html_files/2025-11-30_ai-circular-financing-and-the-300b.html",
+    "md_file": "md_files/2025-11-30_ai-circular-financing-and-the-300b.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/77x-multibagger-opportunity-after",
+    "html_file": "html_files/2025-11-27_77x-multibagger-opportunity-after.html",
+    "md_file": "md_files/2025-11-27_77x-multibagger-opportunity-after.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-real-threat-to-the-300b-lng-boom",
+    "html_file": "html_files/2025-11-30_the-real-threat-to-the-300b-lng-boom.html",
+    "md_file": "md_files/2025-11-30_the-real-threat-to-the-300b-lng-boom.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/50-yoy-surge-in-core-segment-sales",
+    "html_file": "html_files/2025-10-15_50-yoy-surge-in-core-segment-sales.html",
+    "md_file": "md_files/2025-10-15_50-yoy-surge-in-core-segment-sales.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/andritz-ag-overview-and-highlights",
+    "html_file": "html_files/2025-10-15_andritz-ag-overview-and-highlights.html",
+    "md_file": "md_files/2025-10-15_andritz-ag-overview-and-highlights.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/portfolio-update-59-surge-and-a-36",
+    "html_file": "html_files/2025-10-08_portfolio-update-59-surge-and-a-36.html",
+    "md_file": "md_files/2025-10-08_portfolio-update-59-surge-and-a-36.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/andritz-ag-vieandr-presentation-deep",
+    "html_file": "html_files/2025-10-08_andritz-ag-vieandr-presentation-deep.html",
+    "md_file": "md_files/2025-10-08_andritz-ag-vieandr-presentation-deep.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/secular-growth-at-128x-pe-powered",
+    "html_file": "html_files/2025-11-30_secular-growth-at-128x-pe-powered.html",
+    "md_file": "md_files/2025-11-30_secular-growth-at-128x-pe-powered.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/50-margins-with-58-segment-growth",
+    "html_file": "html_files/2025-10-05_50-margins-with-58-segment-growth.html",
+    "md_file": "md_files/2025-10-05_50-margins-with-58-segment-growth.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/avoid-microstrategy-inc-the-bitcoin",
+    "html_file": "html_files/2025-10-08_avoid-microstrategy-inc-the-bitcoin.html",
+    "md_file": "md_files/2025-10-08_avoid-microstrategy-inc-the-bitcoin.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/2x-vs-s-and-p-500-portfolio-update",
+    "html_file": "html_files/2025-09-21_2x-vs-s-and-p-500-portfolio-update.html",
+    "md_file": "md_files/2025-09-21_2x-vs-s-and-p-500-portfolio-update.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/kitwave-group-overview-and-highlights",
+    "html_file": "html_files/2025-09-21_kitwave-group-overview-and-highlights.html",
+    "md_file": "md_files/2025-09-21_kitwave-group-overview-and-highlights.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/oil-sands-the-most-important-industry",
+    "html_file": "html_files/2025-10-03_oil-sands-the-most-important-industry.html",
+    "md_file": "md_files/2025-10-03_oil-sands-the-most-important-industry.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/20-gain-since-june-13-stock-ideas",
+    "html_file": "html_files/2025-11-30_20-gain-since-june-13-stock-ideas.html",
+    "md_file": "md_files/2025-11-30_20-gain-since-june-13-stock-ideas.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/kitwave-group-aimkitw-presentation",
+    "html_file": "html_files/2025-09-09_kitwave-group-aimkitw-presentation.html",
+    "md_file": "md_files/2025-09-09_kitwave-group-aimkitw-presentation.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/niche-dominator-at-68x-ebitda-with",
+    "html_file": "html_files/2025-09-25_niche-dominator-at-68x-ebitda-with.html",
+    "md_file": "md_files/2025-09-25_niche-dominator-at-68x-ebitda-with.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/38-irr-state-sponsored-arbitrage",
+    "html_file": "html_files/2025-09-09_38-irr-state-sponsored-arbitrage.html",
+    "md_file": "md_files/2025-09-09_38-irr-state-sponsored-arbitrage.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/investing-in-coal-could-deliver-triple",
+    "html_file": "html_files/2025-09-03_investing-in-coal-could-deliver-triple.html",
+    "md_file": "md_files/2025-09-03_investing-in-coal-could-deliver-triple.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/bitcoin-is-built-to-fail",
+    "html_file": "html_files/2025-09-03_bitcoin-is-built-to-fail.html",
+    "md_file": "md_files/2025-09-03_bitcoin-is-built-to-fail.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/the-contrarian-investors-guide-to",
+    "html_file": "html_files/2025-12-05_the-contrarian-investors-guide-to.html",
+    "md_file": "md_files/2025-12-05_the-contrarian-investors-guide-to.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/how-to-run-towards-a-fire-50bn-value",
+    "html_file": "html_files/2025-11-30_how-to-run-towards-a-fire-50bn-value.html",
+    "md_file": "md_files/2025-11-30_how-to-run-towards-a-fire-50bn-value.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/karnov-group-overview-and-highlights",
+    "html_file": "html_files/2025-09-10_karnov-group-overview-and-highlights.html",
+    "md_file": "md_files/2025-09-10_karnov-group-overview-and-highlights.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/whitbread-plc-overview-and-highlights",
+    "html_file": "html_files/2025-08-27_whitbread-plc-overview-and-highlights.html",
+    "md_file": "md_files/2025-08-27_whitbread-plc-overview-and-highlights.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/whitbread-plc-lsewtb-presentation",
+    "html_file": "html_files/2025-08-22_whitbread-plc-lsewtb-presentation.html",
+    "md_file": "md_files/2025-08-22_whitbread-plc-lsewtb-presentation.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/portfolio-update-from-patience-to",
+    "html_file": "html_files/2025-09-03_portfolio-update-from-patience-to.html",
+    "md_file": "md_files/2025-09-03_portfolio-update-from-patience-to.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/figma-down-40-a-reality-check",
+    "html_file": "html_files/2025-11-04_figma-down-40-a-reality-check.html",
+    "md_file": "md_files/2025-11-04_figma-down-40-a-reality-check.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/heads-you-get-a-free-business-tails",
+    "html_file": "html_files/2025-12-04_heads-you-get-a-free-business-tails.html",
+    "md_file": "md_files/2025-12-04_heads-you-get-a-free-business-tails.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/karnov-group-omkar-presentation-deep",
+    "html_file": "html_files/2025-08-08_karnov-group-omkar-presentation-deep.html",
+    "md_file": "md_files/2025-08-08_karnov-group-omkar-presentation-deep.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/legal-tech-monopoly-at-569x-forward",
+    "html_file": "html_files/2025-11-04_legal-tech-monopoly-at-569x-forward.html",
+    "md_file": "md_files/2025-11-04_legal-tech-monopoly-at-569x-forward.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/dont-buy-stablecoins-the-3-trillion",
+    "html_file": "html_files/2025-09-03_dont-buy-stablecoins-the-3-trillion.html",
+    "md_file": "md_files/2025-09-03_dont-buy-stablecoins-the-3-trillion.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/disclaimer",
+    "html_file": "html_files/2025-07-26_disclaimer.html",
+    "md_file": "md_files/2025-07-26_disclaimer.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/asseco-poland-sa-overview-and-highlights",
+    "html_file": "html_files/2025-08-08_asseco-poland-sa-overview-and-highlights.html",
+    "md_file": "md_files/2025-08-08_asseco-poland-sa-overview-and-highlights.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/portfolio-update-beating-the-benchmark",
+    "html_file": "html_files/2025-08-11_portfolio-update-beating-the-benchmark.html",
+    "md_file": "md_files/2025-08-11_portfolio-update-beating-the-benchmark.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/asseco-poland-wseacp-presentation",
+    "html_file": "html_files/2025-07-20_asseco-poland-wseacp-presentation.html",
+    "md_file": "md_files/2025-07-20_asseco-poland-wseacp-presentation.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/buffets-dream-company-a-huge-bet",
+    "html_file": "html_files/2025-11-04_buffets-dream-company-a-huge-bet.html",
+    "md_file": "md_files/2025-11-04_buffets-dream-company-a-huge-bet.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/dont-buy-microstrategy-inc-mathematically",
+    "html_file": "html_files/2025-09-03_dont-buy-microstrategy-inc-mathematically.html",
+    "md_file": "md_files/2025-09-03_dont-buy-microstrategy-inc-mathematically.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/weatherford-international-inc-overview",
+    "html_file": "html_files/2025-07-23_weatherford-international-inc-overview.html",
+    "md_file": "md_files/2025-07-23_weatherford-international-inc-overview.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/weatherford-international-plc-nysewfrd",
+    "html_file": "html_files/2025-07-10_weatherford-international-plc-nysewfrd.html",
+    "md_file": "md_files/2025-07-10_weatherford-international-plc-nysewfrd.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/chile-copper-is-back-the-infrastructure",
+    "html_file": "html_files/2025-07-26_chile-copper-is-back-the-infrastructure.html",
+    "md_file": "md_files/2025-07-26_chile-copper-is-back-the-infrastructure.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/goldman-sachs-downgraded-we-upgraded",
+    "html_file": "html_files/2025-11-04_goldman-sachs-downgraded-we-upgraded.html",
+    "md_file": "md_files/2025-11-04_goldman-sachs-downgraded-we-upgraded.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/leave-equities-for-commodities",
+    "html_file": "html_files/2025-07-15_leave-equities-for-commodities.html",
+    "md_file": "md_files/2025-07-15_leave-equities-for-commodities.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/zeta-global-holdings-overview-and",
+    "html_file": "html_files/2025-07-15_zeta-global-holdings-overview-and.html",
+    "md_file": "md_files/2025-07-15_zeta-global-holdings-overview-and.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/is-zeta-trading-at-half-its-intrinsic",
+    "html_file": "html_files/2025-11-04_is-zeta-trading-at-half-its-intrinsic.html",
+    "md_file": "md_files/2025-11-04_is-zeta-trading-at-half-its-intrinsic.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/screener",
+    "html_file": "html_files/2025-06-29_screener.html",
+    "md_file": "md_files/2025-06-29_screener.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/alamos-gold-inc-agitse-overview-and",
+    "html_file": "html_files/2025-07-13_alamos-gold-inc-agitse-overview-and.html",
+    "md_file": "md_files/2025-07-13_alamos-gold-inc-agitse-overview-and.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/alamos-gold-inc-nyseagi",
+    "html_file": "html_files/2025-07-14_alamos-gold-inc-nyseagi.html",
+    "md_file": "md_files/2025-07-14_alamos-gold-inc-nyseagi.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/stock-pitch-8-print-money-on-this",
+    "html_file": "html_files/2025-07-14_stock-pitch-8-print-money-on-this.html",
+    "md_file": "md_files/2025-07-14_stock-pitch-8-print-money-on-this.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/perpetua-resources-nasdaqppta-overview",
+    "html_file": "html_files/2025-07-14_perpetua-resources-nasdaqppta-overview.html",
+    "md_file": "md_files/2025-07-14_perpetua-resources-nasdaqppta-overview.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/finding-compounders-10x-in-apacs",
+    "html_file": "html_files/2025-07-14_finding-compounders-10x-in-apacs.html",
+    "md_file": "md_files/2025-07-14_finding-compounders-10x-in-apacs.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/perpetua-resources-nasdaqppta-presentation",
+    "html_file": "html_files/2025-07-14_perpetua-resources-nasdaqppta-presentation.html",
+    "md_file": "md_files/2025-07-14_perpetua-resources-nasdaqppta-presentation.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/stock-pitch-7-they-secured-the-permits",
+    "html_file": "html_files/2025-11-04_stock-pitch-7-they-secured-the-permits.html",
+    "md_file": "md_files/2025-11-04_stock-pitch-7-they-secured-the-permits.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/academedia-ab-omacad-overview-and",
+    "html_file": "html_files/2025-07-14_academedia-ab-omacad-overview-and.html",
+    "md_file": "md_files/2025-07-14_academedia-ab-omacad-overview-and.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/academedia-ab-omacad-presentation",
+    "html_file": "html_files/2025-07-14_academedia-ab-omacad-presentation.html",
+    "md_file": "md_files/2025-07-14_academedia-ab-omacad-presentation.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/stock-pitch-6-a-counter-cyclical",
+    "html_file": "html_files/2025-11-04_stock-pitch-6-a-counter-cyclical.html",
+    "md_file": "md_files/2025-11-04_stock-pitch-6-a-counter-cyclical.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/finding-10x-opportunities-in-apacs",
+    "html_file": "html_files/2025-07-15_finding-10x-opportunities-in-apacs.html",
+    "md_file": "md_files/2025-07-15_finding-10x-opportunities-in-apacs.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/vetoquinol-sa-vetoepa-overview-and",
+    "html_file": "html_files/2025-07-14_vetoquinol-sa-vetoepa-overview-and.html",
+    "md_file": "md_files/2025-07-14_vetoquinol-sa-vetoepa-overview-and.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/vetoquinol-sa-vetoepa-presentation",
+    "html_file": "html_files/2025-07-14_vetoquinol-sa-vetoepa-presentation.html",
+    "md_file": "md_files/2025-07-14_vetoquinol-sa-vetoepa-presentation.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/stock-pitch-5-a-50-upside-185m-cash",
+    "html_file": "html_files/2025-11-04_stock-pitch-5-a-50-upside-185m-cash.html",
+    "md_file": "md_files/2025-11-04_stock-pitch-5-a-50-upside-185m-cash.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/stock-pitch-4-dont-buy-amadeus-fire",
+    "html_file": "html_files/2025-07-14_stock-pitch-4-dont-buy-amadeus-fire.html",
+    "md_file": "md_files/2025-07-14_stock-pitch-4-dont-buy-amadeus-fire.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/stock-idea-generation-in-apacs-tech",
+    "html_file": "html_files/2025-07-14_stock-idea-generation-in-apacs-tech.html",
+    "md_file": "md_files/2025-07-14_stock-idea-generation-in-apacs-tech.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/just-group-plc-lsejust-overview-and",
+    "html_file": "html_files/2025-07-15_just-group-plc-lsejust-overview-and.html",
+    "md_file": "md_files/2025-07-15_just-group-plc-lsejust-overview-and.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/just-group-plc-justlse-presentation",
+    "html_file": "html_files/2025-07-14_just-group-plc-justlse-presentation.html",
+    "md_file": "md_files/2025-07-14_just-group-plc-justlse-presentation.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/investment-opportunities-in-asia",
+    "html_file": "html_files/2025-07-14_investment-opportunities-in-asia.html",
+    "md_file": "md_files/2025-07-14_investment-opportunities-in-asia.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/stock-pitch-3-why-just-group-plc",
+    "html_file": "html_files/2025-08-01_stock-pitch-3-why-just-group-plc.html",
+    "md_file": "md_files/2025-08-01_stock-pitch-3-why-just-group-plc.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/lectra-sa-lsspa-overview-and-highlights",
+    "html_file": "html_files/2025-07-14_lectra-sa-lsspa-overview-and-highlights.html",
+    "md_file": "md_files/2025-07-14_lectra-sa-lsspa-overview-and-highlights.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/lectra-sa-lsspa-presentation-deep",
+    "html_file": "html_files/2025-07-14_lectra-sa-lsspa-presentation-deep.html",
+    "md_file": "md_files/2025-07-14_lectra-sa-lsspa-presentation-deep.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/stock-pitch-2-lectra-sa-epalss-a",
+    "html_file": "html_files/2025-07-15_stock-pitch-2-lectra-sa-epalss-a.html",
+    "md_file": "md_files/2025-07-15_stock-pitch-2-lectra-sa-epalss-a.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/anicom-holdings-inc-8715-jp-overview",
+    "html_file": "html_files/2025-11-04_anicom-holdings-inc-8715-jp-overview.html",
+    "md_file": "md_files/2025-11-04_anicom-holdings-inc-8715-jp-overview.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/anicom-holdings-inc-presentation",
+    "html_file": "html_files/2025-07-14_anicom-holdings-inc-presentation.html",
+    "md_file": "md_files/2025-07-14_anicom-holdings-inc-presentation.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/1-anicom-holdings-inc",
+    "html_file": "html_files/2025-07-15_1-anicom-holdings-inc.html",
+    "md_file": "md_files/2025-07-15_1-anicom-holdings-inc.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/by-company",
+    "html_file": "html_files/2026-02-12_by-company.html",
+    "md_file": "md_files/2026-02-12_by-company.md"
+  }
+]
