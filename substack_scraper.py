@@ -19,6 +19,7 @@ import hashlib
 from selenium import webdriver
 from time import sleep
 import argparse
+import glob
 
 # Globals are now configurable via CLI arguments
 SITEMAP_STRING = "/sitemap.xml"
@@ -55,6 +56,9 @@ def extract_article_html_and_md(soup, assets_dir):
     import os
     import hashlib
 
+    date_meta = soup.find("meta", property="article:published_time")
+    publish_date = date_meta["content"].split("T")[0] if date_meta and "content" in date_meta.attrs else None
+
     article_container = soup.find("div", class_="available-content")
     if not article_container:
         # Fallback if the specific class is not found
@@ -90,7 +94,7 @@ def extract_article_html_and_md(soup, assets_dir):
 
     html_content = str(article_container)
     markdown_content = markdownify.markdownify(html_content, heading_style="ATX")
-    return html_content, markdown_content
+    return html_content, markdown_content, publish_date
 
 
 def scrape_article_selenium(driver, url, assets_dir):
@@ -153,51 +157,77 @@ def main():
         except Exception as e:
             print(f"Error loading {results_file}: {e}")
 
-    existing_urls = {item["url"] for item in results}
+    results_by_url = {item["url"]: item for item in results}
 
     for url in urls:
-        # Pre-calculate filenames to check existence
-        lastmod = url_to_lastmod.get(url, "")
-        date_part = lastmod.split("T")[0] if lastmod else ""
         base_name = url.rstrip("/").split("/")[-1]
-        if date_part:
-            base_name = f"{date_part}_{base_name}"
+        
+        # Check if we already processed it in results
+        if url in results_by_url:
+            item = results_by_url[url]
+            if os.path.exists(item["html_file"]) and os.path.exists(item["md_file"]):
+                print(f"Skipping {url} (already preserved on disk)")
+                continue
+                
+        # Check if files exist on disk independently (e.g. from previous aborted run)
+        possible_htmls = glob.glob(os.path.join(html_dir, f"*_{base_name}.html"))
+        possible_mds = glob.glob(os.path.join(md_dir, f"*_{base_name}.md"))
+        
+        # Check also if it exists without prefix
+        if os.path.exists(os.path.join(html_dir, f"{base_name}.html")):
+            possible_htmls.append(os.path.join(html_dir, f"{base_name}.html"))
+        if os.path.exists(os.path.join(md_dir, f"{base_name}.md")):
+            possible_mds.append(os.path.join(md_dir, f"{base_name}.md"))
             
-        html_path = os.path.join(html_dir, base_name + ".html")
-        md_path = os.path.join(md_dir, base_name + ".md")
-
-        # Skip if files already exist
-        html_exists = os.path.exists(html_path)
-        md_exists = os.path.exists(md_path)
-
-        if html_exists and md_exists:
+        if possible_htmls and possible_mds and url not in results_by_url:
             print(f"Skipping {url} (already preserved on disk)")
-            # Ensure it's in the results and existing_urls for this run
-            if url not in existing_urls:
-                results.append({"url": url, "html_file": html_path, "md_file": md_path})
-                existing_urls.add(url)
-                # Save results occasionally or at least once if we've added to it
-                with open(results_file, "w") as f:
-                    json.dump(results, f, indent=2)
+            item = {"url": url, "html_file": possible_htmls[0], "md_file": possible_mds[0]}
+            results.append(item)
+            results_by_url[url] = item
+            with open(results_file, "w") as f:
+                json.dump(results, f, indent=2)
             continue
 
         print(f"Scraping {url}")
         try:
             if args.paid:
-                html, md = scrape_article_selenium(driver, url, assets_dir)
+                html, md, pub_date = scrape_article_selenium(driver, url, assets_dir)
             else:
-                html, md = scrape_article_requests(url, assets_dir)
+                html, md, pub_date = scrape_article_requests(url, assets_dir)
             
             if html and md:
+                if pub_date:
+                    date_part = pub_date
+                else:
+                    # Fallback to sitemap lastmod
+                    lastmod = url_to_lastmod.get(url, "")
+                    date_part = lastmod.split("T")[0] if lastmod else ""
+                    
+                if date_part:
+                    file_base_name = f"{date_part}_{base_name}"
+                else:
+                    file_base_name = base_name
+                    
+                html_path = os.path.join(html_dir, file_base_name + ".html")
+                md_path = os.path.join(md_dir, file_base_name + ".md")
+
                 with open(html_path, "w", encoding="utf-8") as f_html:
                     f_html.write(html)
                 with open(md_path, "w", encoding="utf-8") as f_md:
                     f_md.write(md)
                 
                 # Update results
-                if url not in existing_urls:
-                    results.append({"url": url, "html_file": html_path, "md_file": md_path})
-                    existing_urls.add(url)
+                item = {"url": url, "html_file": html_path, "md_file": md_path}
+                if url in results_by_url:
+                    # Replace existing item in list
+                    for i, r in enumerate(results):
+                        if r["url"] == url:
+                            results[i] = item
+                            break
+                else:
+                    results.append(item)
+                
+                results_by_url[url] = item
                     
                 # Save results incrementally
                 with open(results_file, "w") as f:

@@ -648,5 +648,20 @@
     "url": "https://tscsw.substack.com/p/by-company",
     "html_file": "output/tscs/html/2026-02-12_by-company.html",
     "md_file": "output/tscs/md/2026-02-12_by-company.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/buy-the-miners",
+    "html_file": "output/tscs/html/2026-04-05_buy-the-miners.html",
+    "md_file": "output/tscs/md/2026-04-05_buy-the-miners.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/already-inside-not-yet-priced",
+    "html_file": "output/tscs/html/2026-04-05_already-inside-not-yet-priced.html",
+    "md_file": "output/tscs/md/2026-04-05_already-inside-not-yet-priced.md"
+  },
+  {
+    "url": "https://tscsw.substack.com/p/there-is-no-v-shape",
+    "html_file": "output/tscs/html/2026-04-05_there-is-no-v-shape.html",
+    "md_file": "output/tscs/md/2026-04-05_there-is-no-v-shape.md"
   }
 ]
