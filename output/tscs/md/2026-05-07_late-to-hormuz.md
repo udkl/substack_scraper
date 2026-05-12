@@ -1,0 +1,149 @@
+TLDR:
+
+1. The Hormuz oil thesis is now consensus. The FT carries the headline. The trade got harder.
+
+2. I’m revising the Dec 2026 Brent structural fair value down 7-12%, from $95-100 to $85-93. About $7-10 of the prior range was war premium I conflated with structural repricing. The directional thesis on inventory mechanics stands.
+
+The April 17 low of $77.32 is the level Dec 2026 has held against. Public forecast dispersion runs $83 (Goldman) to $100 (Barclays) for 2026 Brent, so the floor is a trading reference, not an equilibrium.
+
+3. Three resolution paths over the next 48 hours: Iran accepts the framework (35-50%, mid 42%), Iran stalls and the April 8 ceasefire holds without a signed deal (30-45%, mid 38%), deal collapses and escalation resumes (15-25%, mid 20%).
+
+4. Kill switches across the active book remain operative. None have fully triggered. The Cash, Not Bonds amplifier legs are on watch into the BOJ next read and the FRBNY custody Thursday print. The exit is mechanical. Triggered by a kill switch print, not a headline.
+
+5. The petchem leg (DOW down 5.78% today) is the cleanest live read on Short The Packagers. The cyclical war premium pricing out of DOW is consistent with the structural long thesis intact on Permian ethane. Mosaic prints May 11.
+
+Six weeks ago I said the back end of the Brent curve was mispriced because physical engineering constraints don’t unwind on a signature. That’s now priced.
+
+The front of the curve has caught the inventory drawdown story (FT lead today: 200mn barrel decline in April).
+
+Reuters this evening: oil supply shock set to worsen as inventories fall further even if the conflict ends. Same physical-reality-from-below argument the back-end thesis was built on.
+
+Ken Griffin warned on recession risk at the Semafor World Economy Forum in mid-April. When your framework reaches the lead headline, it stops paying. The job changes from being right to managing what’s left. If you’re reading the consensus from the FT lead, you’re late to the trade and you’ll be late to the unwind.
+
+Subscribed
+
+## **The Dec 2026 fair value revision**
+
+A revision on a published number before the scenarios.
+
+There Is No V-Shape carried a Dec 2026 structural fair value of $95-100. Three weeks of path data shows $7-10 of that was war premium I conflated with structural repricing on inventory mechanics. Stripped of war premium, the defensible fair value is $85-93. That’s a 7-12% revision on a flagship number, flagged at the top instead of buried in the calendar spread mechanics below.
+
+Methodology. The path from $77.32 (April 17 Dec 2026 low) to the late-April highs had structural and tactical components. I underweighted the tactical. The structural case for Dec 2026 holding above the April 17 low remains intact because the inventory mechanics are already in the system and do not unwind on a signature. The structural case for $95+ required the front month staying elevated, which the war premium provided.
+
+The trade is live. Hasn’t hit a kill switch.
+
+The fair value range is what is revised, not the directional thesis. Subscribers with positions sized to a $95-100 anchor should re-anchor to $85-93. The April 17 low of $77.32 is the level Dec 2026 has held against.
+
+This isn’t a victory lap. It’s a warning. Curve repricing risk flipped to upside. The trades in this series were positioned for a gap between physical reality and market pricing of that reality. The market is now closing the gap from above (curve repricing on peace optimism) and the physical reality is closing it from below (inventory drawdowns, refining damage, freight and insurance costs hitting earnings). Brent front-month opened $107.92, traded as low as $96.75 intraday. A 10% drop on the one-page, 14-point framework report. Iran is reviewing it. Foreign Minister Araghchi flew to Beijing this morning. The IRGC-aligned Tasnim agency called the proposal “unacceptable” within hours. Trump said “too soon” on in-person talks and signalled this afternoon the US would decide whether any Iranian deal is “satisfactory to us.” Brent recovered above $100 on his Truth Social post and settled around $103, down 6.5% on the day.
+
+What’s left after the thesis became consensus: The FT carrying the headline collapses the gap between physical reality and pricing on the front of the curve. It does not collapse it on the back, where Dec 2026 today wicked $81.85 and closed $85.37 against a defensible structural fair value of $85-93.
+
+The residual edge: kill switch discipline (none fully triggered, exit is mechanical). BOJ amplifier on Cash, Not Bonds (partially live on the interpretive read of the April 28 vote split). Petchem arb leg on DOW, where today’s 5.78% drawdown is the market starting to price what Short The Packagers built. Mosaic on May 11.
+
+The framework piece’s job from here is positional management against the kill switches. Adding to consensus trades isn’t the job.
+
+Dec 2026 traded a $4 range and printed an intraday low of $81.85, briefly testing the floor reference I flagged in Priced For Peace.
+
+It closed $85.37. Backwardation $16.99, effectively flat versus April 22’s $16. The 10Y broke 4.4% on May 4 and is now 4.3529, down 7 basis points today. Gold caught a bid on the peace leaks despite the simple risk-on read. AEM rallied 5.83%. DOW lost 5.78%. Mosaic at $23.39, near a 52-week low, with the May 11 input cost setup for the Q3 EBITDA kill switch from Watch The Wrong Price still five days away.
+
+[![](../assets/960d7eb2ed04d3dc64b197a17cea9cfd.png)](https://substackcdn.com/image/fetch/$s_!6Hcc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed395438-4f2e-4811-8573-135b23b2a7b2_1844x1038.png)
+
+A tactical playbook against a moving tape. Settled marks, revised Reversion Trade weights, and tighter scenario ranges land tomorrow. Kill switches from Priced For Peace remain operative. None fully triggered.
+
+Each named trade walked through three resolution paths with working weights on intraday data.
+
+Plan A: 35-50%, mid 42%. Iran accepts the framework in 48 hours, Hormuz opens to traffic on a defined timeline. Plan B: 30-45%, mid 38%. Iran stalls or counters, the April 8 ceasefire holds without a signed framework, status quo persists. Plan C: 15-25%, mid 20%. Deal collapses, Iran walks, escalation resumes. Plan B mid moved from 55% (Priced For Peace, April 22) to 38%. Plan A mid from sub-10% to 42%. The ranges are wide because Iran’s response in 48 hours collapses or reinforces the distribution. Don’t size off the mid-points. They aren’t point estimates. Tomorrow tightens the ranges against settled marks.
+
+## **Plan A: Iran Accepts the Framework (35-50%, mid 42%)**
+
+The market is pricing this today. Brent front off the May 4 high of $126.31 by roughly $24. Dec 2026 testing the low 80s. UK gilts rallying 13 bps. European stocks on track for their best day in a month. S&P at record highs. Trump’s framework, per Axios, involves Iran accepting a moratorium on nuclear enrichment. The US releases frozen Iranian funds and lifts sanctions. Both sides end Hormuz restrictions. Iran response in 48 hours via Pakistan.
+
+The path from “framework signed” to “Hormuz traffic at pre-war volumes” isn’t 48 hours. It’s months. The April 22 piece flagged this. HFI Research’s analysis still applies: tankers in the pipeline take 30-40 days to offload, re-entry through the chokepoint runs three months, cumulative inventory loss is real and dated. The FT’s “200mn barrel decline in April” headline is mechanical evidence the inventory loss is in the system. The price hasn’t caught up.
+
+Brent calendar spread (long Dec 2026, short front). Plan A separates the headline from the trade. Front-month should compress further toward $90 if the framework holds. Dec 2026 should hold above $80 because the inventory mechanics already in the system don’t unwind on a signature. Today’s intraday $81.85 wick was the first floor test. It held. The trade pays if the curve compresses without Dec 2026 breaking $80. The trade hurts if Dec 2026 retraces to the April 17 low of $77.32 on continued de-escalation. Fair value revision above. Tomorrow’s settled marks confirm or revise the $85-93 range.
+
+[![](../assets/9616e6b69c5aa56ce62c315bfce6bbd0.png)](https://substackcdn.com/image/fetch/$s_!KtMN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F558c4f70-a533-4eca-83ac-84577fc4dac6_1848x1040.png)
+
+Gold miners. Gold caught a bid today on the peace leaks. AEM up 5.83%, gold up roughly 3% intraday. The simple read says peace equals risk-on equals gold sells. The tape didn’t do that. Plan A doesn’t break Buy The Miners on the macro frame because the structural bid is about the dollar trajectory and the rates path, not the war premium. AEM at $188 is held against the May 3 framework. AGI kill switch from Buy The Miners Cheaper holds: Q2 print in early August, $1,750 ceiling, $1,650 floor, full-year guidance reiteration, Magino milling rates above 9,500 tpd. Plan A doesn’t change that test.
+
+Short the Packagers (long DOW and WLK, short AMCR). Plan A is the cleanest test of this thesis. DOW gave back 5.78% today, the biggest move of any name in the playbook. The petchem feedstock arb compresses if Hormuz reopens because the US-Asia HDPE spread normalizes faster than expected. DOW prints cash on Permian ethane regardless, but the international arb tailwind unwinds. Today’s move fits Short The Packagers, with oil-beta and prior packaging weakness as the confounders. The thesis works in Plan A. Position holds, kill switches from Short The Packagers operative.
+
+[![](../assets/940ff6a4fc03e48fcacdd5c48e0834bf.png)](https://substackcdn.com/image/fetch/$s_!d9DQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0001b4c7-d61d-4340-9e87-b03a293b2c4b_1846x1038.png)
+
+Cash, Not Bonds. 10Y down 7 bps today on the deal headlines. UK gilts rallied harder, 13 bps lower at 4.93%. Plan A kills the energy inflation impulse. Cover for the FOMC doves. Powell tied April’s inflation print to the Iran war on April 29. Take the war premium out and the easing-bias debate at the next meeting changes character. But Powell stays as governor through the renovation investigation. The 8-4 dissent (three of four against the easing bias) structurally limits how dovish Warsh can pivot. BOJ kill switch ambiguity from April 28: held at 0.75%, hike voters went 1 to 3. Japan amplifier is partially weakened, structurally hawkish on the interpretive read.
+
+Position holds, but the leg gets narrowed in tomorrow’s mark. FRBNY custody Thursday print is the next kill switch read.
+
+Sulfur cascade and Mosaic short. Plan A is the worst path for this thesis. If Hormuz reopens, Russian and Belarusian potash channels normalize over a multi-quarter horizon and the fertilizer cascade from Watch The Wrong Price loses urgency: dollar strength easing, freight unwinding, softer pricing. Mosaic at $23.39 is near 52-week lows. Risk reward into the May 11 print: bad is priced, good clears higher. I’m holding into May 11 against the original Q3 EBITDA $588M kill switch. May 11 is the input cost setup for that Q3 test, not the test itself. Holding into the print.
+
+Tankers and refined products. VLCC and clean tanker rates unwind first. The mechanism that drove rates higher (rerouting, war-risk premium on Hormuz transits, US-flagged convoy structure) compresses fast on Plan A. Singapore gasoil and jet cracks should follow. If physical cracks compress toward pre-crisis levels in the next two weeks, that’s the cleanest tell Plan A is the operative path. I pull those tomorrow. The Lufthansa €1.7bn fuel hit announced today is a lagging indicator. The Q2 guidance cycle for airlines and logistics still has the war-elevated cracks priced in. Plan A unwinds the cracks faster than Q2 prints will catch.
+
+## **Plan B: Iran Stalls, Status Quo Holds (30-45%, mid 38%)**
+
+The April 8 ceasefire is now nearly a month old. It bought no Hormuz reopening, no blockade lifting, no framework. Plan B: Iran reviews the proposal indefinitely. Counter via Pakistan. Framework doesn’t get signed. Ceasefire continues. The Tasnim “unacceptable provisions” framing today is consistent with Plan B becoming the operative path. So is Trump’s “too soon” comment on in-person talks.
+
+Brent calendar spread. Plan B is the modal path Priced For Peace was built around.
+
+Backwardation persists or widens. Dec 2026 grinds back toward the April 17 to April 22 zone of $77 to $82. Front-month finds a floor in the high $90s as the front-loading premium unwinds but the chokepoint disruption persists. The trade pays slowly. The thesis from There Is No V-Shape stays intact. Defensible version on Plan B: against the revised $85-93 fair value, Dec 2026 shouldn’t break the April 17 low of $77.32 because the inventory mechanics are already in the system. Tomorrow’s settled marks confirm or refine the range.
+
+Gold miners. Plan B is the cleanest path for Buy The Miners. Structural bid intact, rates path constrained, Fed still wrestling with elevated energy inflation, dollar weakness on the Treasury fragility leg. AEM, AGI, Wesdome, Skeena, Perpetua all hold. The May 3 piece’s framework runs.
+
+Short the Packagers. Plan B continues the thesis at lower urgency. The long DOW leg recovers some of today’s drawdown if the deal news softens overnight, with the AMCR repricing lag still the binding mechanic into the FY Q4 print. Kill switches from Short The Packagers stay open.
+
+Cash, Not Bonds. Plan B is the path the thesis was built for. FRBNY custody trajectory remains the kill switch read. The April 29 H.4.1 showed custody at $3.02tn, effectively flat week-on-week, after rising sharply through mid-April. The Thursday May 7 print determines whether the recent flatness reverses or confirms a regime shift on the Cash, Not Bonds thesis. The mid-May TIC print, the first genuine wartime data on foreign flows, is the subsequent read. The 10Y / 4.4% pattern still applies. Position holds.
+
+Sulfur cascade. Plan B holds the Q3 EBITDA $588M kill switch as a live test. Mosaic May 11 print is the first read. The Watch The Wrong Price thesis runs.
+
+Tankers and refined products. Plan B keeps the rerouting trade operative. VLCC and clean tanker rates stay elevated. Singapore gasoil and jet cracks above $50/bbl. The Lufthansa-style earnings hits keep accumulating into Q2 guidance windows. The thesis holds.
+
+## **Plan C: Deal Collapses (15-25%, mid 20%)**
+
+Iran has walked twice in this cycle: from the April 11 Islamabad talks, and around the April 21 Pakistan trip cancellation. Tasnim’s “unacceptable provisions” framing today, paired with the Foreign Ministry’s “still reviewing” line, is the same rhetorical posture Iran took before walking from Islamabad. The probability is 20%, not 5%.
+
+Mechanics by leg, against today’s marks.
+
+Brent calendar spread. Front-month retraces toward the May 4 high of $126.31 within the trading week, +25% from current $103. Dec 2026 recovers $5-7 of war premium that came out today, repricing toward the high $80s. Backwardation steepens past $20. The spread structure as constructed (long Dec 2026, short front) takes pain on a steepening curve because the short front leg loses faster than the long back leg gains. The directional thesis on Dec 2026 holds. I’d unwind the short front leg on a confirmed Plan C trigger and run outright long Dec 2026, sized down against the escalation tail.
+
+Cash, Not Bonds. 10Y retests 4.45% within a week. The pattern Gromen tracks gets a clean stress test. The FRBNY custody trajectory continues. The trade strengthens.
+
+Buy The Miners. Gold catches a renewed bid through the war premium and the dollar fragility leg. AEM and AGI re-test the late-April highs. The thesis strengthens.
+
+Short the Packagers (long DOW and WLK, short AMCR). Pays. US-Asia HDPE arb widens further, DOW’s Permian ethane advantage prints harder, AMCR’s quarterly repricing lag bites deeper. The Short The Packagers kill switch is protective on the long leg: thesis weakens if HDPE spread collapses below $1,000/mt sustained, which Plan C prevents. I add to the long on a confirmed Plan C trigger and reassess sizing on a sustained reversal toward the late-April DOW highs. The petchem leg is a Plan C beneficiary.
+
+Sulfur cascade and Mosaic. Catches a bid as the fertilizer cascade urgency reignites. The Q3 EBITDA $588M kill switch test in late July becomes harder to hit. I’d re-size back toward original on a Mosaic reversal toward late-April levels.
+
+Tankers and refined products. VLCC and clean tanker rates retest late-April highs. Singapore gasoil and jet cracks back above $50/bbl. Lufthansa-style Q2 hits accumulate.
+
+Net portfolio under Plan C: every leg pays. The petchem leg’s protective kill switch caps the symmetry but doesn’t reverse direction. The portfolio is long Plan C tail risk by construction. CMA CGM container ship hit in the Strait yesterday. Operating environment is still kinetic. Both states (Plan A diplomatic optimism, Plan C kinetic risk) are simultaneously real until Iran responds.
+
+The 20% on Plan C isn’t a hedge. It’s the path that pays if you’re patient. Most readers will treat Friday’s headlines as a settled deal. Iran has walked twice already.
+
+## **The 10Y / 4.4% Pattern**
+
+[![](../assets/be4ffd5ca852099ba7558625a6cadaa5.png)](https://substackcdn.com/image/fetch/$s_!Iyso!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23a61d7c-0bc7-497d-ac14-41e552947fcf_1848x1038.png)
+
+Luke Gromen flagged that 10Y UST has tested or broken 4.4% several times over the last six months and each test has roughly coincided with US-Iran headline activity that pulled yields back. Today’s tape fits the pattern: 10Y hit 4.4523 on May 4, peace deal leaks landed yesterday and today, 10Y now at 4.3529. UK gilts rallied 13 bps on the same news.
+
+Five data points across six months of overlapping inflation, geopolitical, and Fed independence shocks isn’t a pattern I’d underwrite as causal. I track it because Gromen tracks it and several of you read him. Falsification: if 10Y breaks 4.4% in the next two weeks without diplomatic news flow, the observation is dead. If it holds below 4.4% during a Plan B stalling period, it gets one more data point and I revisit. I’m not positioning around it.
+
+## **What I’m Watching In The Next 48 Hours**
+
+Saudi mediation. Riyadh now publicly involved alongside Pakistan in the joint Saudi-Pakistani request for the Project Freedom pause. The Gulf Arabs have direct exposure to Hormuz and the political weight to push Iran. Highest probability diplomatic track. Watch for follow-on statements from Riyadh.
+
+Iran’s response, conveyed through Pakistan. Whether the response is a flat acceptance, a counter with provisions, a flat rejection, or a deferral to additional talks. Each maps to a different scenario weight.
+
+Settled close on Dec 2026 against the $82 reference. Settled close on front-month against the $90 threshold. Singapore gasoil and jet cracks for whether physical concedes to the headline. FRBNY custody Thursday print for the Cash, Not Bonds kill switch. Mosaic into May 11 for the input cost setup that drives the Watch The Wrong Price Q3 test. Updated Reversion Trade weights against settled marks, not intraday.
+
+Charles de Gaulle transit through Suez. The French naval deployment is a Plan A consistent move (multinational reopening framework) but the timing of carrier strike group deployments runs on weeks, not days. If Iran rejects the framework and the carrier is already in the Red Sea, the optics shift toward escalation enforcement.
+
+The thesis is consensus. Kill switches are operative. None have fully triggered. The exit comes against a kill switch print, not a headline. Stay disciplined. Don’t chase.
+
+Tomorrow’s piece is paid. Settled marks, revised Reversion Trade weights, tighter scenario ranges, and the FRBNY custody Thursday print read for Cash, Not Bonds. Want the operational guts, subscribe.
+
+Subscribed
+
+---
+
+*Data sourced from Bloomberg Terminal as of EOD May 6: CO1 Comdty (front-month Brent), COZ6 Comdty (Dec 2026 Brent), USGG10YR Index (10Y UST yield), DOW US Equity, AEM US Equity. FT live blog citations for Iran-US framework details, Lufthansa fuel hit, CMA CGM strike, US petrol prices, Ken Griffin Semafor comments, French naval deployment, Saudi mediation, UK gilt move. Axios for the framework structure. Fair value revision references There Is No V-Shape (March 30) and Priced For Peace (April 22).*
+
+*Not investment advice. TSCS is research and opinion, not a recommendation to buy or sell any security. The author and affiliated entities may hold positions in any names discussed and may transact in those positions at any time without notice. I am not a registered investment advisor and have no fiduciary duty to readers. Trade decisions are yours. Do your own work. Past performance does not guarantee future results.*
